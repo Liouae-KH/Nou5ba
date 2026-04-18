@@ -142,17 +142,18 @@
 \contentsline {subsection}{\numberline {4.5.3} تقنية فاينمان \pLRE {(Feynman Technique)} }{125}{subsection.4.5.3}%
 \contentsline {subsection}{\numberline {4.5.4} الخرائط الذهنية والروابط العجيبة}{125}{subsection.4.5.4}%
 \contentsline {chapter}{\numberline {5}أدوات وتطبيقات لا غنى عنها}{127}{chapter.5}%
-\contentsline {section}{\numberline {5.1}تطبيق \pLRE {Focus To-Do}: "المُحاسب الشخصي"}{128}{section.5.1}%
-\contentsline {section}{\numberline {5.2}تطبيق Love Maths}{129}{section.5.2}%
-\contentsline {section}{\numberline {5.3}كيف نستعمل \pLRE {Photomath}؟}{130}{section.5.3}%
-\contentsline {section}{\numberline {5.4}تطبيقات حجب المشتتات}{130}{section.5.4}%
-\contentsline {section}{\numberline {5.5}كيف تستخدم الذكاء الاصطناعي في دراستك بذكاء؟}{131}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}أقوى الأدوات التي يحتاجها طالب "النخبة"}{131}{subsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.5.2}تحويل الصوت إلى نص}{132}{subsection.5.5.2}%
-\contentsline {subsection}{\numberline {5.5.3}طريقة إعطاء الأمر الصحيح للذكاء الاصطناعي}{133}{subsection.5.5.3}%
-\contentsline {subsubsection}{أربع قواعد ذهبية لكتابة أمر ناجح:}{133}{subsubsection*.51}%
-\contentsline {subsubsection}{نصائح إضافية للحصول على نتائج أفضل}{134}{subsubsection*.52}%
-\contentsline {subsection}{\numberline {5.5.4}كلمة أخيرة}{135}{subsection.5.5.4}%
+\contentsline {section}{\numberline {5.1}كيف تدرس من اليوتيوب بفعالية؟}{128}{section.5.1}%
+\contentsline {section}{\numberline {5.2}تطبيق \pLRE {Focus To-Do}: "المُحاسب الشخصي"}{128}{section.5.2}%
+\contentsline {section}{\numberline {5.3}تطبيق Love Maths}{129}{section.5.3}%
+\contentsline {section}{\numberline {5.4}كيف نستعمل \pLRE {Photomath}؟}{130}{section.5.4}%
+\contentsline {section}{\numberline {5.5}تطبيقات حجب المشتتات}{131}{section.5.5}%
+\contentsline {section}{\numberline {5.6}كيف تستخدم الذكاء الاصطناعي في دراستك بذكاء؟}{132}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}أقوى الأدوات التي يحتاجها طالب "النخبة"}{132}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}تحويل الصوت إلى نص}{133}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.3}طريقة إعطاء الأمر الصحيح للذكاء الاصطناعي}{133}{subsection.5.6.3}%
+\contentsline {subsubsection}{أربع قواعد ذهبية لكتابة أمر ناجح:}{134}{subsubsection*.51}%
+\contentsline {subsubsection}{نصائح إضافية للحصول على نتائج أفضل}{135}{subsubsection*.52}%
+\contentsline {subsection}{\numberline {5.6.4}كلمة أخيرة}{135}{subsection.5.6.4}%
 \contentsline {chapter}{\numberline {6}المواد: مفاتيح الامتياز}{137}{chapter.6}%
 \contentsline {section}{\numberline {6.1}الرياضيات}{138}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}معادلة النجاح في الرياضيات}{138}{subsection.6.1.1}%
@@ -407,4 +408,4 @@
 \contentsline {subsection}{\numberline {10.5.7}تذكر: الإيمان بالله ثم بالنفس هو الأساس}{282}{subsection.10.5.7}%
 \contentsline {subsection}{\numberline {10.5.8} أنت أقوى مما تعتقد}{282}{subsection.10.5.8}%
 \contentsline {chapter}{\numberline {11}إمدادات الواقع}{283}{chapter.11}%
-\contentsline {chapter}{كلمة أخيرة}{289}{chapter*.89}%
+\contentsline {chapter}{كلمة أخيرة}{297}{chapter*.89}%
