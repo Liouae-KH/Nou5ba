@@ -1,0 +1,410 @@
+\xpg@aux {numerals=western}{arabic}
+\contentsline {chapter}{مقدمة}{17}{chapter*.2}%
+\contentsline {chapter}{الاستفادة القصوى من الكتاب}{19}{chapter*.3}%
+\contentsline {part}{الانطلاقة: عقلية النخبة}{21}{section*.4}%
+\contentsline {chapter}{\numberline {1}غرس العقلية الصحيحة}{23}{chapter.1}%
+\contentsline {section}{\numberline {1.1}ليس الطريق لمن سبق، إنما الطريق لمن صدق}{23}{section.1.1}%
+\contentsline {section}{\numberline {1.2}الفرق بين التلميذ العادي والممتاز (منطقة الراحة)}{23}{section.1.2}%
+\contentsline {section}{\numberline {1.3}تخلَّ عن كلمة "بصـح"}{25}{section.1.3}%
+\contentsline {section}{\numberline {1.4}الشغف يأتي بعد الفعل، لا قبله}{25}{section.1.4}%
+\contentsline {section}{\numberline {1.5}قانون نيوتن في النجاح: لكل فعل رد فعل}{26}{section.1.5}%
+\contentsline {section}{\numberline {1.6}العبرة بالخواتيم}{27}{section.1.6}%
+\contentsline {section}{\numberline {1.7} العادات الذرية: قوة التغييرات الصغيرة}{28}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}هويتك أولاً: لست طالباً فقط، بل أنت "النخبة"}{28}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}قاعدة 1\%: التحسين المستمر}{28}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}القوانين الأربعة لتغيير السلوك}{29}{subsection.1.7.3}%
+\contentsline {subsubsection}{القانون الأول: اجعل العادة واضحة \pLRE {(Make It Obvious)}}{29}{subsubsection*.5}%
+\contentsline {subsubsection}{القانون الثاني: اجعل العادة جذابة \pLRE {(Make It Attractive)}}{29}{subsubsection*.6}%
+\contentsline {subsubsection}{القانون الثالث: اجعل العادة سهلة \pLRE {(Make It Easy)}}{29}{subsubsection*.7}%
+\contentsline {subsubsection}{القانون الرابع: اجعل العادة مرضية \pLRE {(Make It Satisfying)}}{30}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {1.7.4}الأنظمة أهم من الأهداف}{30}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}أخطاء قاتلة يقع فيها طلاب البكالوريا}{30}{section.1.8}%
+\contentsline {section}{\numberline {1.9}خلاصة الباب 1 }{31}{section.1.9}%
+\contentsline {chapter}{\numberline {2}أعداء النجاح: كيف تنتصر عليهم؟}{35}{chapter.2}%
+\contentsline {section}{\numberline {2.1}المقاطع القصيرة: عدو التركيز رقم الأول}{36}{section.2.1}%
+\contentsline {section}{\numberline {2.2}صيام الدوبامين: الحل العملي لاستعادة الشغف والتركيز}{37}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}كيف تطبق "ديتوكس" الدوبامين عملياً؟}{37}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}ماذا ستجني من هذه التجربة؟}{38}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}العلاقات العاطفية: الاستنزاف الخفي }{38}{section.2.3}%
+\contentsline {section}{\numberline {2.4}السهر والروتين المدمر: فخ "الليالي البيضاء"}{39}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}ماذا يحدث لدماغك عندما تسهر؟ (وهم الإنجاز)}{40}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}خطة عملية لضبط ساعتك البيولوجية}{40}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}السموم الصامتة}{41}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}1. الأغاني (فخ التشتت الذهني)}{41}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}2. الفاست فود والسكريات (غيبوبة الخمول)}{41}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}3. المشتتات المقنّعة (وهم الإنجاز)}{42}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}فخ "التليجرام": حين يتحول مصدر الدراسة إلى أكبر مشتت}{42}{section.2.6}%
+\contentsline {section}{\numberline {2.7}خلاصة الباب 2}{44}{section.2.7}%
+\contentsline {part}{الأدوات الذهبية: خطط واستراتيجيات}{45}{section*.9}%
+\contentsline {chapter}{\numberline {3}خطط النخبة الدراسية}{47}{chapter.3}%
+\contentsline {section}{\numberline {3.1}من أين تبدأ؟ اختر خطتك بذكاء}{47}{section.3.1}%
+\contentsline {section}{\numberline {3.2}العطلة الصيفية: انطلاقة النخبة}{48}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}قبل أن تبدأ: التهيئة النفسية والمادية}{49}{subsection.3.2.1}%
+\contentsline {subsubsection}{أولاً: الراحة ثم الراحة}{49}{subsubsection*.10}%
+\contentsline {subsubsection}{ثانياً: صفِّ نيتك وتوكل على الله}{49}{subsubsection*.11}%
+\contentsline {subsubsection}{ثالثاً: جهز بيئتك الدراسية}{49}{subsubsection*.12}%
+\contentsline {subsubsection}{رابعاً: ضع خطة بسيطة ومرنة}{50}{subsubsection*.13}%
+\contentsline {subsection}{\numberline {3.2.2}شهر جويلية: شهر الراحة والاستعداد الذهني}{50}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}شهر أوت: شهر التأسيس والمكتسبات القبلية}{51}{subsection.3.2.3}%
+\contentsline {subsubsection}{الأسبوع الأول (1 – 7 أوت): اكتساب القاعدة}{51}{subsubsection*.14}%
+\contentsline {subsubsection}{الأسبوع الثاني (8 – 14 أوت): التعمق في الأساسيات}{52}{subsubsection*.15}%
+\contentsline {subsubsection}{الأسبوع الثالث (15 – 21 أوت): التطبيق والتمارين}{52}{subsubsection*.16}%
+\contentsline {subsubsection}{الأسبوع الرابع (22 – 31 أوت): المراجعة والاستعداد لسبتمبر}{53}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {3.2.4}نصائح ذهبية لصيف النخبة}{54}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}أهم المصادر لصيف النخبة}{54}{subsection.3.2.5}%
+\contentsline {subsubsection}{الرياضيات}{54}{subsubsection*.18}%
+\contentsline {subsubsection}{الفيزياء}{55}{subsubsection*.19}%
+\contentsline {subsubsection}{العلوم الطبيعية}{55}{subsubsection*.20}%
+\contentsline {subsubsection}{اللغة العربية}{55}{subsubsection*.21}%
+\contentsline {subsubsection}{اللغة الإنجليزية}{55}{subsubsection*.22}%
+\contentsline {subsubsection}{اللغة الفرنسية}{55}{subsubsection*.23}%
+\contentsline {subsubsection}{التاريخ والجغرافيا}{56}{subsubsection*.24}%
+\contentsline {subsubsection}{الفلسفة}{56}{subsubsection*.25}%
+\contentsline {subsubsection}{العلوم الإسلامية}{56}{subsubsection*.26}%
+\contentsline {subsection}{\numberline {3.2.6}ختاماً: أنت الآن على أعتاب النخبة}{56}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}خطة شاملة لشهر سبتمبر}{57}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}أهداف عامة لشهر سبتمبر}{57}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}المواد الأساسية: من المراجعة إلى البداية}{58}{subsection.3.3.2}%
+\contentsline {subsubsection}{الرياضيات}{58}{subsubsection*.27}%
+\contentsline {subsubsection}{الفيزياء}{59}{subsubsection*.28}%
+\contentsline {subsubsection}{العلوم الطبيعية}{60}{subsubsection*.29}%
+\contentsline {subsection}{\numberline {3.3.3}المواد الأدبية واللغات: التحضير المبكر}{60}{subsection.3.3.3}%
+\contentsline {subsubsection}{اللغة العربية}{60}{subsubsection*.30}%
+\contentsline {subsubsection}{اللغة الإنجليزية}{61}{subsubsection*.31}%
+\contentsline {subsubsection}{اللغة الفرنسية}{62}{subsubsection*.32}%
+\contentsline {subsubsection}{العلوم الإسلامية}{63}{subsubsection*.33}%
+\contentsline {subsubsection}{التاريخ والجغرافيا}{64}{subsubsection*.34}%
+\contentsline {subsubsection}{الفلسفة}{64}{subsubsection*.35}%
+\contentsline {subsection}{\numberline {3.3.4}نصائح عملية لشهر سبتمبر}{65}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}توجيهات خاصة للشعب المختلفة}{66}{subsection.3.3.5}%
+\contentsline {subsubsection}{شعبة علوم تجريبية}{66}{subsubsection*.36}%
+\contentsline {subsubsection}{شعبة رياضيات وتقني رياضي}{66}{subsubsection*.37}%
+\contentsline {subsubsection}{الشعب الأدبية (آداب وفلسفة، لغات أجنبية، تسيير واقتصاد)}{66}{subsubsection*.38}%
+\contentsline {subsection}{\numberline {3.3.6}ختاماً: رسالة تحفيزية}{67}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}خطة شاملة لشهر أكتوبر}{67}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}أهداف عامة لشهر أكتوبر}{68}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}المواد الأساسية: من الفهم إلى التطبيق}{68}{subsection.3.4.2}%
+\contentsline {subsubsection}{الرياضيات}{68}{subsubsection*.39}%
+\contentsline {subsubsection}{الفيزياء}{69}{subsubsection*.40}%
+\contentsline {subsubsection}{العلوم الطبيعية}{70}{subsubsection*.41}%
+\contentsline {subsection}{\numberline {3.4.3}المواد الأدبية واللغات: البداية الصحيحة}{71}{subsection.3.4.3}%
+\contentsline {subsubsection}{اللغة العربية}{71}{subsubsection*.42}%
+\contentsline {subsubsection}{اللغة الإنجليزية}{71}{subsubsection*.43}%
+\contentsline {subsubsection}{اللغة الفرنسية}{72}{subsubsection*.44}%
+\contentsline {subsubsection}{العلوم الإسلامية}{72}{subsubsection*.45}%
+\contentsline {subsubsection}{التاريخ والجغرافيا}{73}{subsubsection*.46}%
+\contentsline {subsubsection}{الفلسفة}{73}{subsubsection*.47}%
+\contentsline {subsection}{\numberline {3.4.4}نصائح عملية لشهر أكتوبر}{73}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}توجيهات خاصة للمتقدمين والمتأخرين}{75}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}خطة شاملة لشهر نوفمبر}{75}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}المواد الأساسية: من الفهم إلى التطبيق}{76}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}المواد الأدبية واللغات: لا للتأجيل}{77}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}نصائح ذهبية لشهر نوفمبر}{79}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}خطة شاملة لشهر ديسمبر }{80}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}تقسيم الشهر}{81}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}المواد الأساسية}{81}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}المواد الأدبية واللغات}{83}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}نصائح مهمة لشهر ديسمبر}{85}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}خطة شاملة لشهر جانفي }{86}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}تقسيم الشهر}{86}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}المواد الأساسية}{87}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}المواد الأدبية}{90}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}توصيات مهمة لشهر جانفي}{93}{subsection.3.7.4}%
+\contentsline {section}{\numberline {3.8}خطة المرحلة الحاسمة: فيفري ومارس (مع رمضان 2027)}{94}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}المرحلة الأولى (1 - 7 فيفري): أسبوع قبل رمضان}{94}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}المرحلة الثانية (8 فيفري - 9 مارس): شهر رمضان}{96}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}المرحلة الثالثة (10 - 31 مارس): الانطلاق بعد العيد}{97}{subsection.3.8.3}%
+\contentsline {section}{\numberline {3.9}خطة شاملة لشهر أفريل (المراجعة المكثفة)}{98}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}تقسيم الشهر}{98}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}المواد الأساسية}{99}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}المواد الأدبية}{102}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}نصائح ذهبية لشهر أفريل}{105}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}المراجعة النهائية: الخطأ الفادح}{106}{subsection.3.9.5}%
+\contentsline {section}{\numberline {3.10}خطة شهر ماي: اللمسات الأخيرة ومحاكاة للباكالوريا}{106}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}القواعد الذهبية لشهر ماي}{106}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}البرنامج اليومي المقترح (تكتيك 3 مراحل)}{107}{subsection.3.10.2}%
+\contentsline {section}{\numberline {3.11}خطط الطوارئ والإنقاذ للمتأخرين (آخر فرصة)}{108}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}أولاً: حدد وضعك بدقة (أين أنت الآن؟)}{108}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}ثانياً: اختر خطة الإنقاذ المناسبة لوقتك}{108}{subsection.3.11.2}%
+\contentsline {chapter}{\numberline {4}نظام اليوم المثالي}{115}{chapter.4}%
+\contentsline {section}{\numberline {4.1} الساعات الصافية: كيف تكسر سقف إنتاجيتك؟}{116}{section.4.1}%
+\contentsline {section}{\numberline {4.2} الفجر: الخطوة الأولى والانتصار الأكبر}{117}{section.4.2}%
+\contentsline {section}{\numberline {4.3}فخ الجداول الزمنية: لماذا تنجح قائمة المهام بدل التوقيت؟}{118}{section.4.3}%
+\contentsline {section}{\numberline {4.4}كيف توزع مهامك؟}{120}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}للطالب النظامي}{120}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}الطالب الحر}{120}{subsection.4.4.2}%
+\contentsline {subsubsection}{أولاً: الطالب الحر في المنزل (متفرغ كلياً للباك)}{121}{subsubsection*.48}%
+\contentsline {subsubsection}{ثانياً: الطالب الحر في الجامعة (الدراسة والتحدي الأكبر)}{122}{subsubsection*.49}%
+\contentsline {subsubsection}{نصائح مشتركة للجميع (الحر في البيت والحر في الجامعة)}{123}{subsubsection*.50}%
+\contentsline {section}{\numberline {4.5}هندسة الذاكرة: كيف تجعل المعلومات "غير قابلة للنسيان"؟}{124}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1} التكرار المتباعد \pLRE {(Spaced Repetition)}}{124}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2} الاسترجاع النشط \pLRE {(Active Recall)}}{125}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3} تقنية فاينمان \pLRE {(Feynman Technique)} }{125}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4} الخرائط الذهنية والروابط العجيبة}{125}{subsection.4.5.4}%
+\contentsline {chapter}{\numberline {5}أدوات وتطبيقات لا غنى عنها}{127}{chapter.5}%
+\contentsline {section}{\numberline {5.1}تطبيق \pLRE {Focus To-Do}: "المُحاسب الشخصي"}{128}{section.5.1}%
+\contentsline {section}{\numberline {5.2}تطبيق Love Maths}{129}{section.5.2}%
+\contentsline {section}{\numberline {5.3}كيف نستعمل \pLRE {Photomath}؟}{130}{section.5.3}%
+\contentsline {section}{\numberline {5.4}تطبيقات حجب المشتتات}{130}{section.5.4}%
+\contentsline {section}{\numberline {5.5}كيف تستخدم الذكاء الاصطناعي في دراستك بذكاء؟}{131}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}أقوى الأدوات التي يحتاجها طالب "النخبة"}{131}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}تحويل الصوت إلى نص}{132}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}طريقة إعطاء الأمر الصحيح للذكاء الاصطناعي}{133}{subsection.5.5.3}%
+\contentsline {subsubsection}{أربع قواعد ذهبية لكتابة أمر ناجح:}{133}{subsubsection*.51}%
+\contentsline {subsubsection}{نصائح إضافية للحصول على نتائج أفضل}{134}{subsubsection*.52}%
+\contentsline {subsection}{\numberline {5.5.4}كلمة أخيرة}{135}{subsection.5.5.4}%
+\contentsline {chapter}{\numberline {6}المواد: مفاتيح الامتياز}{137}{chapter.6}%
+\contentsline {section}{\numberline {6.1}الرياضيات}{138}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}معادلة النجاح في الرياضيات}{138}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}ترتيب الأولويات في الرياضيات}{138}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}كيفية دراسة الرياضيات بذكاء (خطوات عملية)}{139}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}أخطاء شائعة تحرمك من العلامة الكاملة}{140}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}روّاد الرياضيات على اليوتيوب (أفضل الأساتذة)}{141}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}أهم الكتب والسلاسل}{142}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}نصائح ذهبية في الرياضيات}{142}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}كيف تتعامل مع تمارين "صحيح وخطأ"؟}{143}{subsection.6.1.8}%
+\contentsline {subsection}{\numberline {6.1.9}كيف تتعامل مع "الاحتمالات" بذكاء؟}{144}{subsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.1.10}كيف تتعامل مع "المتتاليات" و"المجاميع"؟}{144}{subsection.6.1.10}%
+\contentsline {subsection}{\numberline {6.1.11}كيف تتعامل مع "المناقشة البيانية"؟}{144}{subsection.6.1.11}%
+\contentsline {subsection}{\numberline {6.1.12}نصيحة أخيرة (من القلب)}{145}{subsection.6.1.12}%
+\contentsline {section}{\numberline {6.2}الفيزياء}{145}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}معادلة النجاح في الفيزياء}{145}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}أولاً: تخلَّ عن الخوف والعقبات النفسية}{146}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}هيكل المادة (الوحدات)}{146}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}خطة الدراسة الذكية في الفيزياء (4 مراحل)}{146}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}الأسئلة النظرية والبروتوكولات التجريبية }{148}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}كيف تتعامل مع تمارين الفيزياء بذكاء؟}{149}{subsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.2.7}أفضل المصادر (قنوات يوتيوب وكتب)}{150}{subsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.2.8}استراتيجيات الامتحان (كيف تتعامل مع ورقة الفيزياء؟)}{151}{subsection.6.2.8}%
+\contentsline {subsection}{\numberline {6.2.9}نصائح للطلاب المتأخرين والضعاف في الفيزياء}{152}{subsection.6.2.9}%
+\contentsline {section}{\numberline {6.3}العلوم الطبيعية}{153}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}معادلة النجاح في العلوم}{153}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}لماذا يخاف الطلاب من العلوم؟ }{154}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}خطة الدراسة الذهبية في العلوم}{154}{subsection.6.3.3}%
+\contentsline {paragraph}{أنواع التمارين في البكالوريا:}{159}{paragraph*.53}%
+\contentsline {paragraph}{خطة ذكية لحل التمارين:}{159}{paragraph*.54}%
+\contentsline {paragraph}{الموارد (السلاسل والكتب) التي تحتاجها لحل التمارين:}{161}{paragraph*.55}%
+\contentsline {subsection}{\numberline {6.3.4}المنهجية: روح العلوم}{161}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}الوحدات الأساسية: نظرة شاملة}{163}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}أخطاء شائعة تحرمك من العلامة الكاملة }{165}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}نصائح أخيرة من القلب}{167}{subsection.6.3.7}%
+\contentsline {section}{\numberline {6.4}اللغات (الإنجليزية والفرنسية)}{167}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}اللغة الإنجليزية: البرنامج والمنهجية}{168}{subsection.6.4.1}%
+\contentsline {subsubsection}{البرنامج الدراسي (الوحدات)}{168}{subsubsection*.56}%
+\contentsline {subsubsection}{استراتيجية الدراسة الذكية للغة الإنجليزية}{168}{subsubsection*.57}%
+\contentsline {subsubsection}{قواعد اللغة: مفتاح السهولة}{169}{subsubsection*.58}%
+\contentsline {subsubsection}{فن كتابة الفقرة (\pLRE {Written Expression})}{170}{subsubsection*.59}%
+\contentsline {subsubsection}{خطة زمنية متكاملة للعام الدراسي (من تجربة كريم عبد الوهاب)}{171}{subsubsection*.60}%
+\contentsline {subsubsection}{أبرز المصادر على يوتيوب (الإنجليزية)}{171}{subsubsection*.61}%
+\contentsline {subsection}{\numberline {6.4.2}اللغة الفرنسية: من الصفر إلى الامتياز}{172}{subsection.6.4.2}%
+\contentsline {subsubsection}{البرنامج والمحاور الأساسية}{172}{subsubsection*.62}%
+\contentsline {subsubsection}{الخطة المنهجية لدراسة الفرنسية}{172}{subsubsection*.63}%
+\contentsline {subsubsection}{النص التاريخي: استراتيجية لضمان 16,5}{173}{subsubsection*.64}%
+\contentsline {subsubsection}{إتقان كتابة "\pLRE {Compte rendu}"}{174}{subsubsection*.65}%
+\contentsline {subsubsection}{خطة الإنقاذ السريعة (في غضون شهرين)}{174}{subsubsection*.66}%
+\contentsline {subsubsection}{جمع الأسئلة المتكررة في كراس خاص}{175}{subsubsection*.67}%
+\contentsline {subsubsection}{أهم المصادر على يوتيوب (الفرنسية)}{175}{subsubsection*.68}%
+\contentsline {subsubsection}{أبرز الكتب والملخصات}{176}{subsubsection*.69}%
+\contentsline {subsection}{\numberline {6.4.3}نصائح مشتركة وأخطاء شائعة}{176}{subsection.6.4.3}%
+\contentsline {subsubsection}{لماذا تفشل خطط دراسة اللغات؟ وكيف تتفادى الأخطاء؟}{176}{subsubsection*.70}%
+\contentsline {subsubsection}{استراتيجية الـ 15 يوماً لإنهاء البرنامج (نموذج عملي)}{177}{subsubsection*.71}%
+\contentsline {subsubsection}{نصائح لبناء رصيد لغوي متين}{178}{subsubsection*.72}%
+\contentsline {subsubsection}{التكنولوجيا حليفك في دراسة اللغات}{179}{subsubsection*.73}%
+\contentsline {section}{\numberline {6.5}اللغة العربية}{180}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}هيكل الموضوع: كيف يُبنى سؤال العربية؟}{180}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}خريطة البرنامج: كل شعبة وبرنامجها}{181}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}فرق أساسي: شعر المنفى وشعر المهجر}{182}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.4}استقرار البرنامج: ميزة لا يعرفها الكثيرون}{182}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}شعر أم نثر؟ سؤال نهار الامتحان}{183}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}منهجية حل الموضوع: الخطوات الخمس}{183}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}سر البناء الفكري: الأسلوب الخاص}{184}{subsection.6.5.7}%
+\contentsline {subsection}{\numberline {6.5.8}منهجية التلخيص}{185}{subsection.6.5.8}%
+\contentsline {subsection}{\numberline {6.5.9}الإنثار: سؤال نادر لكن مهم}{186}{subsection.6.5.9}%
+\contentsline {subsection}{\numberline {6.5.10}الأنماط: قانون ذكي بدل الحفظ الأعمى}{187}{subsection.6.5.10}%
+\contentsline {subsection}{\numberline {6.5.11}النزعات والعواطف والقيم}{188}{subsection.6.5.11}%
+\contentsline {subsection}{\numberline {6.5.12}البناء اللغوي: سلاسل وأسئلة ثابتة}{190}{subsection.6.5.12}%
+\contentsline {subsection}{\numberline {6.5.13}التقويم النقدي (للأدبيين فقط)}{191}{subsection.6.5.13}%
+\contentsline {subsection}{\numberline {6.5.14}نصائح ذهبية من تجارب الناجحين}{192}{subsection.6.5.14}%
+\contentsline {subsection}{\numberline {6.5.15}المصادر المُجرَّبة}{193}{subsection.6.5.15}%
+\contentsline {subsection}{\numberline {6.5.16}استراتيجية الامتحان}{194}{subsection.6.5.16}%
+\contentsline {section}{\numberline {6.6}الشريعة}{195}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}طبيعة أسئلة البكالوريا في الشريعة}{195}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}خطوات الدراسة الفعالة للشريعة}{195}{subsection.6.6.2}%
+\contentsline {subsubsection}{أولاً: الفهم العميق (80\% من النجاح)}{195}{subsubsection*.74}%
+\contentsline {subsubsection}{ثانياً: التطبيق العملي (بعد الفهم)}{196}{subsubsection*.75}%
+\contentsline {subsubsection}{ثالثاً: الحفظ على مراحل}{196}{subsubsection*.76}%
+\contentsline {subsubsection}{رابعاً: المراجعة المستمرة}{197}{subsubsection*.77}%
+\contentsline {subsection}{\numberline {6.6.3}كيف تتعامل مع الجزأين في امتحان البكالوريا}{197}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}أفضل الأساتذة لمادة العلوم الإسلامية}{198}{subsection.6.6.4}%
+\contentsline {subsection}{\numberline {6.6.5}أهم الكتب والملخصات}{198}{subsection.6.6.5}%
+\contentsline {subsection}{\numberline {6.6.6}نصائح ذهبية للتفوق في الشريعة}{199}{subsection.6.6.6}%
+\contentsline {subsection}{\numberline {6.6.7}رسالة تحفيزية من الأستاذ شمس الدين}{199}{subsection.6.6.7}%
+\contentsline {section}{\numberline {6.7} التاريخ والجغرافيا }{200}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}أهمية التوازن بين المواد الأساسية والثانوية}{200}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}طرق الحفظ الذكية: الفهم أولاً ثم التكرار}{200}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}منهجية التعامل مع الشخصيات}{201}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}التعامل مع المصطلحات والخرائط}{202}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}التواريخ: كيف تحفظها بذكاء؟}{202}{subsection.6.7.5}%
+\contentsline {subsection}{\numberline {6.7.6}المنهجية الصحيحة لكتابة المقال}{203}{subsection.6.7.6}%
+\contentsline {subsection}{\numberline {6.7.7}التعامل مع الأسئلة غير المباشرة}{203}{subsection.6.7.7}%
+\contentsline {subsection}{\numberline {6.7.8}أفضل الأساتذة والكتب والموارد}{204}{subsection.6.7.8}%
+\contentsline {subsection}{\numberline {6.7.9}نصائح حول الدروس الخصوصية واليوتيوب}{205}{subsection.6.7.9}%
+\contentsline {subsection}{\numberline {6.7.10}التعامل مع الضغط والتحفيز الذاتي}{205}{subsection.6.7.10}%
+\contentsline {subsection}{\numberline {6.7.11}خلاصة ونصائح ختامية}{205}{subsection.6.7.11}%
+\contentsline {section}{\numberline {6.8} الفلسفة }{206}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}كيف تتوسع في المقالة الفلسفية دون تكرار؟}{206}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.2}الفهم أولاً ثم الحفظ}{207}{subsection.6.8.2}%
+\contentsline {subsection}{\numberline {6.8.3}أنواع تحليل النص}{208}{subsection.6.8.3}%
+\contentsline {subsection}{\numberline {6.8.4}كيف تتعامل مع ضغط المراجعة؟}{208}{subsection.6.8.4}%
+\contentsline {subsection}{\numberline {6.8.5}أهمية الدراسة الصباحية}{209}{subsection.6.8.5}%
+\contentsline {subsection}{\numberline {6.8.6}الدروس الخصوصية أم اليوتيوب؟}{209}{subsection.6.8.6}%
+\contentsline {subsection}{\numberline {6.8.7}نصيحة للطلاب الأحرار}{209}{subsection.6.8.7}%
+\contentsline {subsection}{\numberline {6.8.8}التعامل مع الأساتذة في الليسي}{210}{subsection.6.8.8}%
+\contentsline {subsection}{\numberline {6.8.9}كلمة أخيرة وتحفيز}{210}{subsection.6.8.9}%
+\contentsline {subsection}{\numberline {6.8.10}تجربة الأستاذ الشخصية}{210}{subsection.6.8.10}%
+\contentsline {subsection}{\numberline {6.8.11}نصائح ختامية}{211}{subsection.6.8.11}%
+\contentsline {section}{\numberline {6.9}شعبة تقني رياضي}{211}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}نصائح عامة لطلاب التقني رياضي}{211}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}مصادر عامة لجميع التخصصات}{212}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}تخصص الهندسة المدنية}{212}{subsection.6.9.3}%
+\contentsline {subsubsection}{أهم الوحدات الدراسية}{213}{subsubsection*.78}%
+\contentsline {subsubsection}{أفضل القنوات التعليمية}{213}{subsubsection*.79}%
+\contentsline {subsubsection}{نصائح خاصة بالهندسة المدنية}{214}{subsubsection*.80}%
+\contentsline {subsection}{\numberline {6.9.4}تخصص الهندسة الكهربائية}{214}{subsection.6.9.4}%
+\contentsline {subsubsection}{أهم الوحدات الدراسية}{214}{subsubsection*.81}%
+\contentsline {subsubsection}{أفضل القنوات والكتب}{215}{subsubsection*.82}%
+\contentsline {subsubsection}{تجربة متفوق}{215}{subsubsection*.83}%
+\contentsline {subsection}{\numberline {6.9.5}تخصص الهندسة الميكانيكية}{215}{subsection.6.9.5}%
+\contentsline {subsubsection}{أهم الوحدات الدراسية}{215}{subsubsection*.84}%
+\contentsline {subsubsection}{أفضل القناة}{216}{subsubsection*.85}%
+\contentsline {subsection}{\numberline {6.9.6}تخصص الهندسة الطرائق (الهندسة الكيميائية)}{216}{subsection.6.9.6}%
+\contentsline {subsubsection}{أفضل قناة}{216}{subsubsection*.86}%
+\contentsline {subsection}{\numberline {6.9.7}خطة مقترحة لدراسة مواد التخصص}{216}{subsection.6.9.7}%
+\contentsline {subsection}{\numberline {6.9.8}خاتمة}{217}{subsection.6.9.8}%
+\contentsline {part}{محطات فاصلة: استراتيجيات الامتحان والمراجعة}{219}{section*.87}%
+\contentsline {chapter}{\numberline {7}استراتيجيات ما قبل الامتحان}{221}{chapter.7}%
+\contentsline {section}{\numberline {7.1}البكالوريا التجريبية (البيضاء): كنزك لتقييم نفسك}{221}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}لماذا يجب أن تخوض البكالوريا التجريبية؟}{221}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}كيف تستفيد أقصى استفادة من البكالوريا التجريبية؟}{222}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}كيف تتعامل مع نتيجة التجريبي؟}{223}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}خطة العمل بعد البكالوريا التجريبي (المرحلة الحاسمة)}{223}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}قصص واقعية: ماذا نتعلم من التجريبي؟}{225}{subsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.1.6}أخطاء شائعة في التعامل مع البكالوريا التجريبي}{226}{subsection.7.1.6}%
+\contentsline {section}{\numberline {7.2}ليلة الامتحان: الاستعداد النفسي والمادي والذهني}{226}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}ماذا تفعل في ليلة الامتحان؟}{227}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}ماذا تتجنب في ليلة الامتحان؟}{227}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}نصائح خاصة للمواد المختلفة (لمحة سريعة)}{228}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}كيف تتعامل مع التوتر والقلق؟}{228}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}التحضير المادي: قائمة المستلزمات}{229}{subsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.2.6}الملابس المناسبة}{230}{subsection.7.2.6}%
+\contentsline {chapter}{\numberline {8}يوم الامتحان البكالوريا}{231}{chapter.8}%
+\contentsline {section}{\numberline {8.1}دليل شامل ليوم الامتحان: من الاستيقاظ إلى تسليم الورقة}{231}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}قبل الخروج من المنزل}{231}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}في مركز الامتحان}{232}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}عند استلام ورقة الأسئلة (الاختيار الذكي للموضوع)}{233}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}التعامل مع ورقة الإجابة (فن التنظيم)}{234}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}تنظيم الوقت داخل الامتحان}{235}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.1.6}نصائح خاصة للتعامل مع الضغط أثناء الامتحان}{236}{subsection.8.1.6}%
+\contentsline {subsection}{\numberline {8.1.7}في آخر الوقت}{236}{subsection.8.1.7}%
+\contentsline {subsection}{\numberline {8.1.8}بعد الخروج من الامتحان}{237}{subsection.8.1.8}%
+\contentsline {section}{\numberline {8.2}التعامل مع الحالات الطارئة يوم الامتحان}{237}{section.8.2}%
+\contentsline {part}{دعم النخبة: الإمدادات}{239}{section*.88}%
+\contentsline {chapter}{\numberline {9} إمدادات التفوق}{241}{chapter.9}%
+\contentsline {section}{\numberline {9.1}تجربة محمد}{241}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}كيف تبدأ عام البكالوريا}{241}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}الدروس الخصوصية: بين الفائدة والإفراط}{242}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}كيف تتعامل مع المواد المختلفة}{242}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}نصائح للمذاكرة الفعالة}{243}{subsection.9.1.4}%
+\contentsline {subsection}{\numberline {9.1.5}كيف تتعامل مع الأساتذة}{243}{subsection.9.1.5}%
+\contentsline {subsection}{\numberline {9.1.6}الذكاء والاجتهاد}{244}{subsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.1.7}اختيار التخصص بعد الباك}{244}{subsection.9.1.7}%
+\contentsline {subsection}{\numberline {9.1.8}تأثير القراءة والثقافة العامة}{245}{subsection.9.1.8}%
+\contentsline {subsection}{\numberline {9.1.9}القيم الأساسية للنجاح}{245}{subsection.9.1.9}%
+\contentsline {subsection}{\numberline {9.1.10}نصائح ليوم الامتحان}{246}{subsection.9.1.10}%
+\contentsline {subsection}{\numberline {9.1.11}كلمة أخيرة}{246}{subsection.9.1.11}%
+\contentsline {section}{\numberline {9.2} تجربة رونق}{247}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}البدايات: طفولة عادية وإيمان مبكر}{247}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}القرآن الكريم: سر البركة والتميز}{247}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}التخطيط المحكم: سر النجاح الكبير}{248}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}التعامل مع الدروس الخصوصية والمقترحات}{248}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}كيف واجهت التشكيك والضغوط؟}{249}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}أسبوع الامتحانات: الروحانية والثقة}{249}{subsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.2.7}دور الأسرة: الدعم دون ضغط}{250}{subsection.9.2.7}%
+\contentsline {subsection}{\numberline {9.2.8}نصيحة ختامية للطلاب}{250}{subsection.9.2.8}%
+\contentsline {section}{\numberline {9.3}تجربة وصال}{250}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}الفترة الحاسمة: شهر ما قبل البكالوريا}{251}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}نصائح للمراجعة النهائية لكل مادة}{251}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.3}طريقة وصال في مادة الفلسفة}{252}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}كيف تتعامل مع أسئلة الاجتماعيات غير المباشرة}{253}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.5}الأيام الأخيرة قبل الباك: كيف تتعامل مع الضغط}{253}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.6}التعامل مع الأساتذة المحبطين}{254}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.7}فترة انتظار النتائج وكواليس يوم الفرح}{255}{subsection.9.3.7}%
+\contentsline {subsection}{\numberline {9.3.8}التكريم الرئاسي: حلم يتحقق}{256}{subsection.9.3.8}%
+\contentsline {subsection}{\numberline {9.3.9}رسالة أخيرة للطلاب}{256}{subsection.9.3.9}%
+\contentsline {section}{\numberline {9.4}تجربة نرجس}{257}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}بداية العام: الراحة أولاً ثم الانطلاق}{257}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}طريقة الدراسة: العمق أولاً ثم التنويع}{257}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}الفلسفة: من الخوف إلى الحب (والعلامة الكاملة)}{258}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}موقفها من المقترحات: لا للمجازفة}{258}{subsection.9.4.4}%
+\contentsline {subsection}{\numberline {9.4.5}الدروس الخصوصية: مصدر دعم وليس شرطاً}{258}{subsection.9.4.5}%
+\contentsline {subsection}{\numberline {9.4.6}الدراسة الفردية أم الجماعية؟}{259}{subsection.9.4.6}%
+\contentsline {subsection}{\numberline {9.4.7}التعامل مع الأساتذة والثقة بالنفس}{259}{subsection.9.4.7}%
+\contentsline {subsection}{\numberline {9.4.8}البكالوريا: اجتهاد وليس عبقريّة}{259}{subsection.9.4.8}%
+\contentsline {subsection}{\numberline {9.4.9}لحظة النتيجة والتكريم الرئاسي}{260}{subsection.9.4.9}%
+\contentsline {subsection}{\numberline {9.4.10}نصيحة ختامية}{260}{subsection.9.4.10}%
+\contentsline {section}{\numberline {9.5}تجربة نديم}{261}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}بداية العام: لا للضغط المبكر}{261}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}تنظيم الوقت: التدرج في الوتيرة}{261}{subsection.9.5.2}%
+\contentsline {subsection}{\numberline {9.5.3}طريقة الدراسة في المواد الأساسية }{262}{subsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.5.4}مواد الحفظ: سر المعدل الممتاز}{262}{subsection.9.5.4}%
+\contentsline {subsection}{\numberline {9.5.5}كيف حول 12 في الفلسفة إلى 18,5 في الباك؟}{263}{subsection.9.5.5}%
+\contentsline {subsection}{\numberline {9.5.6}الدروس الخصوصية: ضرورة أم لا؟}{263}{subsection.9.5.6}%
+\contentsline {subsection}{\numberline {9.5.7}البكالوريا التجريبية: كنز لا يقدر بثمن}{263}{subsection.9.5.7}%
+\contentsline {subsection}{\numberline {9.5.8}موقفه من المقترحات والإشاعات}{263}{subsection.9.5.8}%
+\contentsline {subsection}{\numberline {9.5.9}أسبوع البكالوريا: الاستعداد النفسي والبدني}{264}{subsection.9.5.9}%
+\contentsline {subsection}{\numberline {9.5.10}لحظة النجاح والتكريم}{264}{subsection.9.5.10}%
+\contentsline {subsection}{\numberline {9.5.11}نصيحة ختامية}{264}{subsection.9.5.11}%
+\contentsline {section}{\numberline {9.6}تجربة وسيم}{265}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}التحفيز: السيف ذو حدين}{265}{subsection.9.6.1}%
+\contentsline {subsection}{\numberline {9.6.2}الرياضيات: فهم التطبيق أولاً}{265}{subsection.9.6.2}%
+\contentsline {subsection}{\numberline {9.6.3}الفيزياء: الدرس أهم من التطبيقات؟}{266}{subsection.9.6.3}%
+\contentsline {subsection}{\numberline {9.6.4}المواد الأدبية: تقنية التسلسل الهرمي}{266}{subsection.9.6.4}%
+\contentsline {subsection}{\numberline {9.6.5}التحفيز الزائد: استثمره في المواد العلمية}{266}{subsection.9.6.5}%
+\contentsline {subsection}{\numberline {9.6.6}الدراسة: هل تستحق التعب؟}{267}{subsection.9.6.6}%
+\contentsline {subsection}{\numberline {9.6.7}التمارين الصعبة: لا تضيع وقتك}{267}{subsection.9.6.7}%
+\contentsline {subsection}{\numberline {9.6.8}المنهجية في جميع المواد}{267}{subsection.9.6.8}%
+\contentsline {subsection}{\numberline {9.6.9}الإسلامية: احفظ كما هي}{267}{subsection.9.6.9}%
+\contentsline {subsection}{\numberline {9.6.10}يوم الباك: الأوراق}{268}{subsection.9.6.10}%
+\contentsline {section}{\numberline {9.7}أصوات من الميدان }{268}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}بشرى: 19 في الفلسفة}{268}{subsection.9.7.1}%
+\contentsline {subsection}{\numberline {9.7.2}رفيدة: طالبة طب}{269}{subsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.7.3}يوسف: 18,5 في الفلسفة، 19,5 في الفيزياء}{270}{subsection.9.7.3}%
+\contentsline {subsection}{\numberline {9.7.4}ليلى: 18,80 في شعبة علوم تجريبية}{271}{subsection.9.7.4}%
+\contentsline {chapter}{\numberline {10}إمدادات الروح}{275}{chapter.10}%
+\contentsline {section}{\numberline {10.1}أنت مسؤول عن السعي، والله عن النتيجة}{275}{section.10.1}%
+\contentsline {section}{\numberline {10.2}عندما ينتابك الخوف واليأس}{277}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}أنت لست وحدك}{277}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}ممارسات عملية لمواجهة اليأس}{278}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}قوة الدعاء واليقين}{278}{subsection.10.2.3}%
+\contentsline {section}{\numberline {10.3}وصايا الأساتذة الكبار}{278}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}وصية الأستاذ نور الدين}{278}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}وصية الأستاذ ترير}{279}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}وصية الأستاذة كتفي}{279}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}وصية الأستاذة خيرة فليتي}{279}{subsection.10.3.4}%
+\contentsline {subsection}{\numberline {10.3.5}وصية الأستاذ حماش (الأدب)}{279}{subsection.10.3.5}%
+\contentsline {subsection}{\numberline {10.3.6}وصية الأستاذ عادل مقرود (الفلسفة)}{279}{subsection.10.3.6}%
+\contentsline {section}{\numberline {10.4}لا تنسى هدفك الأسمى: لِأجل من تفعل هذا؟}{279}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}لأجل الوالدين}{280}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}لأجل مستقبلك}{280}{subsection.10.4.2}%
+\contentsline {subsection}{\numberline {10.4.3}لأجل ذاتك}{280}{subsection.10.4.3}%
+\contentsline {section}{\numberline {10.5}كيف تبقي شغفك متقداً طوال العام؟}{280}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}غيّر روتينك كل فترة}{280}{subsection.10.5.1}%
+\contentsline {subsection}{\numberline {10.5.2}كافئ نفسك بانتظام}{281}{subsection.10.5.2}%
+\contentsline {subsection}{\numberline {10.5.3}اشترك في تحديات جماعية}{281}{subsection.10.5.3}%
+\contentsline {subsection}{\numberline {10.5.4}ذكّر نفسك باستمرار بالهدف النهائي}{281}{subsection.10.5.4}%
+\contentsline {subsection}{\numberline {10.5.5}لا تقارن نفسك بالآخرين}{282}{subsection.10.5.5}%
+\contentsline {subsection}{\numberline {10.5.6}اهتم بصحتك النفسية والجسدية}{282}{subsection.10.5.6}%
+\contentsline {subsection}{\numberline {10.5.7}تذكر: الإيمان بالله ثم بالنفس هو الأساس}{282}{subsection.10.5.7}%
+\contentsline {subsection}{\numberline {10.5.8} أنت أقوى مما تعتقد}{282}{subsection.10.5.8}%
+\contentsline {chapter}{\numberline {11}إمدادات الواقع}{283}{chapter.11}%
+\contentsline {chapter}{كلمة أخيرة}{289}{chapter*.89}%

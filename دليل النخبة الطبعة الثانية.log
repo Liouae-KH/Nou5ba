@@ -1,0 +1,4378 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.20)  17 APR 2026 23:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./دليل النخبة الطبعة الثانية.tex"
+(دليل النخبة الطبعة الثانية.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count280
+\float@exts=\toks17
+\float@box=\box53
+\@float@everytoks=\toks18
+\@floatcapt=\box54
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.s
+ty (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.
+def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count281
+\g__pdfannot_backend_int=\count282
+\g__pdfannot_backend_link_int=\count283
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.st
+y
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count284
+\l__fontspec_language_int=\count285
+\l__fontspec_strnum_int=\count286
+\l__fontspec_tmp_int=\count287
+\l__fontspec_tmpa_int=\count288
+\l__fontspec_tmpb_int=\count289
+\l__fontspec_tmpc_int=\count290
+\l__fontspec_em_int=\count291
+\l__fontspec_emdef_int=\count292
+\l__fontspec_strong_int=\count293
+\l__fontspec_strongdef_int=\count294
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polyglossia.st
+y
+Package: polyglossia 2025/12/01 v2.9 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count295
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\l_xpg_alias_keyvals_int=\count296
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-latex.ld
+f
+File: gloss-latex.ldf polyglossia: module for default language
+)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen152
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count302
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip17
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks21
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks22
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks23
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count309
+\Gm@cntv=\count310
+\c@Gm@tempcnt=\count311
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks26
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip68
+\aftertitleunit=\skip69
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks27
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box58
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.cod
+e.tex
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslib
+raryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
+\pgf@xd=\dimen186
+\pgf@yd=\dimen187
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count312
+\c@pgf@countb=\count313
+\c@pgf@countc=\count314
+\c@pgf@countd=\count315
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count316
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-x
+etex.def
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-d
+vipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count317
+)))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count318
+\pgfsyssoftpath@bigbuffer@items=\count319
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.te
+x
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.cod
+e.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen188
+\pgfmath@count=\count320
+\pgfmath@box=\box59
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.integerarithmetics.code.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.cod
+e.tex)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count321
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen189
+\pgf@picmaxx=\dimen190
+\pgf@picminy=\dimen191
+\pgf@picmaxy=\dimen192
+\pgf@pathminx=\dimen193
+\pgf@pathmaxx=\dimen194
+\pgf@pathminy=\dimen195
+\pgf@pathmaxy=\dimen196
+\pgf@xx=\dimen197
+\pgf@xy=\dimen198
+\pgf@yx=\dimen199
+\pgf@yy=\dimen256
+\pgf@zx=\dimen257
+\pgf@zy=\dimen258
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen259
+\pgf@path@lasty=\dimen260
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen261
+\pgf@shorten@start@additional=\dimen262
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count322
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen263
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen264
+\pgf@pt@y=\dimen265
+\pgf@pt@temp=\dimen266
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen267
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen268
+\pgf@sys@shading@range@num=\count323
+\pgf@shadingcount=\count324
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box63
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box64
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen269
+\pgf@nodesepend=\dimen270
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.co
+de.tex))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.te
+x))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.cod
+e.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen271
+\pgffor@skip=\dimen272
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\t
+ikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count325
+\pgfplotmarksize=\dimen273
+)
+\tikz@lastx=\dimen274
+\tikz@lasty=\dimen275
+\tikz@lastxsaved=\dimen276
+\tikz@lastysaved=\dimen277
+\tikz@lastmovetox=\dimen278
+\tikz@lastmovetoy=\dimen279
+\tikzleveldistance=\dimen280
+\tikzsiblingdistance=\dimen281
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count326
+\tikznumberofchildren=\count327
+\tikznumberofcurrentchild=\count328
+\tikz@fig@count=\count329
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count330
+\pgfmatrixcurrentcolumn=\count331
+\pgf@matrix@numberofcolumns=\count332
+)
+\tikz@expandcount=\count333
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekey
+s.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.st
+y
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count334
+Package zref Info: New property: abspage on input line 67.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+)
+\mdf@templength=\skip70
+\c@mdf@globalstyle@cnt=\count335
+\mdf@skipabove@length=\skip71
+\mdf@skipbelow@length=\skip72
+\mdf@leftmargin@length=\skip73
+\mdf@rightmargin@length=\skip74
+\mdf@innerleftmargin@length=\skip75
+\mdf@innerrightmargin@length=\skip76
+\mdf@innertopmargin@length=\skip77
+\mdf@innerbottommargin@length=\skip78
+\mdf@splittopskip@length=\skip79
+\mdf@splitbottomskip@length=\skip80
+\mdf@outermargin@length=\skip81
+\mdf@innermargin@length=\skip82
+\mdf@linewidth@length=\skip83
+\mdf@innerlinewidth@length=\skip84
+\mdf@middlelinewidth@length=\skip85
+\mdf@outerlinewidth@length=\skip86
+\mdf@roundcorner@length=\skip87
+\mdf@footenotedistance@length=\skip88
+\mdf@userdefinedwidth@length=\skip89
+\mdf@needspace@length=\skip90
+\mdf@frametitleaboveskip@length=\skip91
+\mdf@frametitlebelowskip@length=\skip92
+\mdf@frametitlerulewidth@length=\skip93
+\mdf@frametitleleftmargin@length=\skip94
+\mdf@frametitlerightmargin@length=\skip95
+\mdf@shadowsize@length=\skip96
+\mdf@extratopheight@length=\skip97
+\mdf@subtitleabovelinewidth@length=\skip98
+\mdf@subtitlebelowlinewidth@length=\skip99
+\mdf@subtitleaboveskip@length=\skip100
+\mdf@subtitlebelowskip@length=\skip101
+\mdf@subtitleinneraboveskip@length=\skip102
+\mdf@subtitleinnerbelowskip@length=\skip103
+\mdf@subsubtitleabovelinewidth@length=\skip104
+\mdf@subsubtitlebelowlinewidth@length=\skip105
+\mdf@subsubtitleaboveskip@length=\skip106
+\mdf@subsubtitlebelowskip@length=\skip107
+\mdf@subsubtitleinneraboveskip@length=\skip108
+\mdf@subsubtitleinnerbelowskip@length=\skip109
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box69
+\mdf@footnotebox=\box70
+\mdf@splitbox@one=\box71
+\mdf@splitbox@two=\box72
+\mdf@splitbox@save=\box73
+\mdfsplitboxwidth=\skip110
+\mdfsplitboxtotalwidth=\skip111
+\mdfsplitboxheight=\skip112
+\mdfsplitboxdepth=\skip113
+\mdfsplitboxtotalheight=\skip114
+\mdfframetitleboxwidth=\skip115
+\mdfframetitleboxtotalwidth=\skip116
+\mdfframetitleboxheight=\skip117
+\mdfframetitleboxdepth=\skip118
+\mdfframetitleboxtotalheight=\skip119
+\mdffootnoteboxwidth=\skip120
+\mdffootnoteboxtotalwidth=\skip121
+\mdffootnoteboxheight=\skip122
+\mdffootnoteboxdepth=\skip123
+\mdffootnoteboxtotalheight=\skip124
+\mdftotallinewidth=\skip125
+\mdfboundingboxwidth=\skip126
+\mdfboundingboxtotalwidth=\skip127
+\mdfboundingboxheight=\skip128
+\mdfboundingboxdepth=\skip129
+\mdfboundingboxtotalheight=\skip130
+\mdf@freevspace@length=\skip131
+\mdf@horizontalwidthofbox@length=\skip132
+\mdf@verticalmarginwhole@length=\skip133
+\mdf@horizontalspaceofbox=\skip134
+\mdfsubtitleheight=\skip135
+\mdfsubsubtitleheight=\skip136
+\c@mdfcountframes=\count336
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count337
+\c@mdf@env@i=\count338
+\c@mdf@env@ii=\count339
+\c@mdf@zref@counter=\count340
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitles
+tring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count341
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen282
+\Hy@linkcounter=\count342
+\Hy@pagecounter=\count343
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count344
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count345
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen283
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.st
+y
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count346
+\Field@Width=\dimen284
+\Fld@charsize=\dimen285
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count347
+\c@Item=\count348
+\c@Hfootnote=\count349
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box74
+\c@Hy@AnnotLevel=\count350
+\HyField@AnnotCount=\count351
+\Fld@listcount=\count352
+\c@bookmark@seq@number=\count353
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilech
+eck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecoun
+ter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip137
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.st
+y
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count354
+) 
+)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count355
+\calc@Bcount=\count356
+\calc@Adimen=\dimen286
+\calc@Bdimen=\dimen287
+\calc@Askip=\skip138
+\calc@Bskip=\skip139
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count357
+\calc@Cskip=\skip140
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen288
+\ESO@tempdimb=\dimen289
+)
+\AM@pagewidth=\dimen290
+\AM@pageheight=\dimen291
+\AM@fboxrule=\dimen292
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2025/07/23 v0.6g Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count358
+\AM@pagebox=\box75
+\AM@global@opts=\toks40
+\AM@pagecnt=\count359
+\AM@toc@title=\toks41
+\AM@lof@heading=\toks42
+\c@AM@survey=\count360
+\AM@templatesizebox=\box76
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-arabic.l
+df
+File: gloss-arabic.ldf polyglossia: module for Arabic
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\bidi.sty
+Package: bidi 2026/01/08 v26.01.08 (Release Iran) Bidirectional typesetting in 
+plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting with
+* plain TeX and LaTeX formats in XeTeX and LuaTeX engines)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2026 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v26.01.08 (Release Iran), 2026/01/08
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/unicodetex/generic/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\biditools.sty
+Package: biditools 2025/12/19 v2.9 Programming tools for bidi package
+\@bidi@envbody=\toks43
+\@bidi@emptytoks=\toks44
+\bidi@poscount=\count361
+\bidi@tempcountb=\count362
+\bidi@temptoksa=\toks45
+\bidi@temptoksb=\toks46
+\bidi@dummies=\count363
+\bidi@are@these@correct=\toks47
+\bidi@toks@lista=\toks48
+\bidi@toks@listb=\toks49
+\bidi@stack@length=\count364
+\bidi@empty@stack=\toks50
+\bidi@looprepeat@depth=\count365
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count366
+\bidi@typesetminute=\count367
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2025/12/19 v1.5.6 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks51
+LaTeX Info: Redefining \centerline on input line 317.
+LaTeX Info: Redefining \leftline on input line 326.
+LaTeX Info: Redefining \rightline on input line 327.
+LaTeX Info: Redefining \underline on input line 335.
+\bidi@column@check@number=\count368
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\footnote-xetex-bidi.d
+ef
+File: footnote-xetex-bidi.def 2025/09/30 v1.6 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count369
+\footdir@toks=\toks52
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\book-xetex-bidi.def
+File: book-xetex-bidi.def 2025/12/19 v1.6 bidi adaptations for standard book cl
+ass for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\amsmath-xetex-bidi.de
+f
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\amstext-xetex-bidi.de
+f
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 50.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\eso-pic-xetex-bidi.de
+f
+File: eso-pic-xetex-bidi.def 2022/02/18 v0.4 bidi adaptations for eso-pic packa
+ge for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\fancyhdr-xetex-bidi.d
+ef
+File: fancyhdr-xetex-bidi.def 2025/09/03 v1.0 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\geometry-xetex-bidi.d
+ef
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\graphicx-xetex-bidi.d
+ef
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\hyperref-xetex-bidi.d
+ef
+File: hyperref-xetex-bidi.def 2025/12/06 v1.5 bidi adaptations for hyperref pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\mdframed-xetex-bidi.d
+ef
+File: mdframed-xetex-bidi.def 2013/09/22 v0.4 bidi adaptations for mdframed pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\pgfsys-xetex-bidi.def
+File: pgfsys-xetex-bidi.def 2025/01/05 v0.1 bidi adaptations for pgfsys package
+ for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\titlesec-xetex-bidi.d
+ef
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
+kage for XeTeX engine
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\pgfcorescopes.code-xe
+tex-bidi.def
+File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
+f package for XeTeX engine
+))
+\bidi@digits=\count370
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\arabicnumbers.
+sty
+Package: arabicnumbers 2010/03/18 v0.2 Formatting of Arabic and Farsi digits an
+d of Arabic abjad numerals
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\hijrical.sty
+Package: hijrical 2010/07/12 v0.2 Islamic calendar
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\cal-util.def
+\c@tmpA=\count371
+\c@tmpB=\count372
+\c@tmpC=\count373
+\c@tmpD=\count374
+\c@tmpE=\count375
+\c@tmpF=\count376
+)
+\c@Hijriday=\count377
+\c@Hijrimonth=\count378
+\c@Hijriyear=\count379
+))
+
+Package polyglossia Info: Default language is arabic
+
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-english.
+ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package fontspec Info: 
+(fontspec)             Janna LT scale = 1.2.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Janna LT/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Janna LT/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Janna LT/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Janna LT scale = 1.2.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'JannaLT(0)' created for font 'Janna LT'
+(fontspec)             with options [Script=Arabic,Scale=1.2].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.2]"Janna
+(fontspec)             LT/OT:script=arab;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Janna LT scale = 1.2.
+
+
+Package fontspec Info: 
+(fontspec)             Janna LT scale = 1.2.
+
+
+Package polyglossia Info: Default language is arabic
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 177.
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/n' will be
+(Font)              scaled to size 14.39996pt on input line 210.
+(دليل النخبة الطبعة الثانية.aux)
+\openout1 = `"دليل النخبة الطبعة الثانية.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 210.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 210.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 210.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 210.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 210.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 210.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 210.
+LaTeX Font Info:    Redeclaring math accent \check on input line 210.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 210.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 210.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 210.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 210.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 210.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 210.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 210.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 210.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 210.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 210.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 210.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(99.58464pt, 674.33032pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-32.55914pt
+* \headheight=40.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 210.
+(دليل النخبة الطبعة الثانية.out) (دليل النخبة الطبعة الثانية.out)
+\@outlinefile=\write4
+\openout4 = `"دليل النخبة الطبعة الثانية.out"'.
+
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometa
+data.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\lscape-xetex-bidi.def
+File: lscape-xetex-bidi.def 2025/01/03 v0.3 bidi adaptations for lscape package
+ for XeTeX engine
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/bidi\pdflscape-xetex-bidi.
+def
+File: pdflscape-xetex-bidi.def 2022/02/18 v0.1 bidi adaptations for pdflscape p
+ackage for XeTeX engine
+)
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf>
+ [1
+
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+
+LaTeX Font Warning: Font shape `TU/JannaLT(0)/b/n' undefined
+(Font)              using `TU/JannaLT(0)/m/n' instead on input line 241.
+
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/b/n' will be
+(Font)              scaled to size 14.39996pt on input line 241.
+[2
+
+]
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/n' will be
+(Font)              scaled to size 29.85593pt on input line 241.
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/b/n' will be
+(Font)              scaled to size 29.85593pt on input line 241.
+ (دليل النخبة الطبعة الثانية.toc
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 4.
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [3]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+[4]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [5]
+Overfull \hbox (3.25436pt too wide) detected at line 120
+ [][][]\TU/JannaLT(0)/b/n/12 102[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 121
+ [][][]\TU/JannaLT(0)/b/n/12 105[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 122
+ [][][]\TU/JannaLT(0)/b/n/12 106[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 123
+ [][][]\TU/JannaLT(0)/b/n/12 106[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 124
+ [][][]\TU/JannaLT(0)/b/n/12 106[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 125
+ [][][]\TU/JannaLT(0)/b/n/12 107[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 126
+ [][][]\TU/JannaLT(0)/b/n/12 108[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 127
+ [][][]\TU/JannaLT(0)/b/n/12 108[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 128
+ [][][]\TU/JannaLT(0)/b/n/12 108[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 130
+ [][][]\TU/JannaLT(0)/b/n/12 116[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 131
+ [][][]\TU/JannaLT(0)/b/n/12 117[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 132
+ [][][]\TU/JannaLT(0)/b/n/12 118[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 133
+ [][][]\TU/JannaLT(0)/b/n/12 120[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 134
+ [][][]\TU/JannaLT(0)/b/n/12 120[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 135
+ [][][]\TU/JannaLT(0)/b/n/12 120[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 139
+ [][][]\TU/JannaLT(0)/b/n/12 124[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 140
+ [][][]\TU/JannaLT(0)/b/n/12 124[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[6]
+Overfull \hbox (3.25436pt too wide) detected at line 141
+ [][][]\TU/JannaLT(0)/b/n/12 125[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 142
+ [][][]\TU/JannaLT(0)/b/n/12 125[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 143
+ [][][]\TU/JannaLT(0)/b/n/12 125[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 145
+ [][][]\TU/JannaLT(0)/b/n/12 128[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 146
+ [][][]\TU/JannaLT(0)/b/n/12 129[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 147
+ [][][]\TU/JannaLT(0)/b/n/12 130[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 148
+ [][][]\TU/JannaLT(0)/b/n/12 130[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 149
+ [][][]\TU/JannaLT(0)/b/n/12 131[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 150
+ [][][]\TU/JannaLT(0)/b/n/12 131[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 151
+ [][][]\TU/JannaLT(0)/b/n/12 132[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 152
+ [][][]\TU/JannaLT(0)/b/n/12 133[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 155
+ [][][]\TU/JannaLT(0)/b/n/12 135[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 157
+ [][][]\TU/JannaLT(0)/b/n/12 138[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 158
+ [][][]\TU/JannaLT(0)/b/n/12 138[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 159
+ [][][]\TU/JannaLT(0)/b/n/12 138[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 160
+ [][][]\TU/JannaLT(0)/b/n/12 139[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 161
+ [][][]\TU/JannaLT(0)/b/n/12 140[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 162
+ [][][]\TU/JannaLT(0)/b/n/12 141[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 163
+ [][][]\TU/JannaLT(0)/b/n/12 142[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 164
+ [][][]\TU/JannaLT(0)/b/n/12 142[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 165
+ [][][]\TU/JannaLT(0)/b/n/12 143[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 166
+ [][][]\TU/JannaLT(0)/b/n/12 144[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 167
+ [][][]\TU/JannaLT(0)/b/n/12 144[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[7]
+Overfull \hbox (3.25436pt too wide) detected at line 168
+ [][][]\TU/JannaLT(0)/b/n/12 144[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 169
+ [][][]\TU/JannaLT(0)/b/n/12 145[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 170
+ [][][]\TU/JannaLT(0)/b/n/12 145[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 171
+ [][][]\TU/JannaLT(0)/b/n/12 145[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 172
+ [][][]\TU/JannaLT(0)/b/n/12 146[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 173
+ [][][]\TU/JannaLT(0)/b/n/12 146[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 174
+ [][][]\TU/JannaLT(0)/b/n/12 146[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 175
+ [][][]\TU/JannaLT(0)/b/n/12 148[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 176
+ [][][]\TU/JannaLT(0)/b/n/12 149[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 177
+ [][][]\TU/JannaLT(0)/b/n/12 150[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 178
+ [][][]\TU/JannaLT(0)/b/n/12 151[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 179
+ [][][]\TU/JannaLT(0)/b/n/12 152[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 180
+ [][][]\TU/JannaLT(0)/b/n/12 153[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 181
+ [][][]\TU/JannaLT(0)/b/n/12 153[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 182
+ [][][]\TU/JannaLT(0)/b/n/12 154[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 183
+ [][][]\TU/JannaLT(0)/b/n/12 154[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 187
+ [][][]\TU/JannaLT(0)/b/n/12 161[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 188
+ [][][]\TU/JannaLT(0)/b/n/12 163[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 189
+ [][][]\TU/JannaLT(0)/b/n/12 165[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 190
+ [][][]\TU/JannaLT(0)/b/n/12 167[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 191
+ [][][]\TU/JannaLT(0)/b/n/12 167[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 192
+ [][][]\TU/JannaLT(0)/b/n/12 168[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 199
+ [][][]\TU/JannaLT(0)/b/n/12 172[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 208
+ [][][]\TU/JannaLT(0)/b/n/12 176[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 213
+ [][][]\TU/JannaLT(0)/b/n/12 180[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 214
+ [][][]\TU/JannaLT(0)/b/n/12 180[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 215
+ [][][]\TU/JannaLT(0)/b/n/12 181[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[8]
+Overfull \hbox (3.25436pt too wide) detected at line 216
+ [][][]\TU/JannaLT(0)/b/n/12 182[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 217
+ [][][]\TU/JannaLT(0)/b/n/12 182[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 218
+ [][][]\TU/JannaLT(0)/b/n/12 183[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 219
+ [][][]\TU/JannaLT(0)/b/n/12 183[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 220
+ [][][]\TU/JannaLT(0)/b/n/12 184[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 221
+ [][][]\TU/JannaLT(0)/b/n/12 185[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 222
+ [][][]\TU/JannaLT(0)/b/n/12 186[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 223
+ [][][]\TU/JannaLT(0)/b/n/12 187[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 224
+ [][][]\TU/JannaLT(0)/b/n/12 188[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 225
+ [][][]\TU/JannaLT(0)/b/n/12 190[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 226
+ [][][]\TU/JannaLT(0)/b/n/12 191[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 227
+ [][][]\TU/JannaLT(0)/b/n/12 192[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 228
+ [][][]\TU/JannaLT(0)/b/n/12 193[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 229
+ [][][]\TU/JannaLT(0)/b/n/12 194[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 230
+ [][][]\TU/JannaLT(0)/b/n/12 195[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 231
+ [][][]\TU/JannaLT(0)/b/n/12 195[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 232
+ [][][]\TU/JannaLT(0)/b/n/12 195[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 237
+ [][][]\TU/JannaLT(0)/b/n/12 197[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 238
+ [][][]\TU/JannaLT(0)/b/n/12 198[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 239
+ [][][]\TU/JannaLT(0)/b/n/12 198[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 240
+ [][][]\TU/JannaLT(0)/b/n/12 199[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 241
+ [][][]\TU/JannaLT(0)/b/n/12 199[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 242
+ [][][]\TU/JannaLT(0)/b/n/12 200[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 243
+ [][][]\TU/JannaLT(0)/b/n/12 200[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 244
+ [][][]\TU/JannaLT(0)/b/n/12 200[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 245
+ [][][]\TU/JannaLT(0)/b/n/12 201[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 246
+ [][][]\TU/JannaLT(0)/b/n/12 202[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[9]
+Overfull \hbox (3.25436pt too wide) detected at line 247
+ [][][]\TU/JannaLT(0)/b/n/12 202[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 248
+ [][][]\TU/JannaLT(0)/b/n/12 203[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 249
+ [][][]\TU/JannaLT(0)/b/n/12 203[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 250
+ [][][]\TU/JannaLT(0)/b/n/12 204[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 251
+ [][][]\TU/JannaLT(0)/b/n/12 205[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 252
+ [][][]\TU/JannaLT(0)/b/n/12 205[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 253
+ [][][]\TU/JannaLT(0)/b/n/12 205[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 254
+ [][][]\TU/JannaLT(0)/b/n/12 206[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 255
+ [][][]\TU/JannaLT(0)/b/n/12 206[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 256
+ [][][]\TU/JannaLT(0)/b/n/12 207[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 257
+ [][][]\TU/JannaLT(0)/b/n/12 208[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 258
+ [][][]\TU/JannaLT(0)/b/n/12 208[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 259
+ [][][]\TU/JannaLT(0)/b/n/12 209[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 260
+ [][][]\TU/JannaLT(0)/b/n/12 209[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 261
+ [][][]\TU/JannaLT(0)/b/n/12 209[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 262
+ [][][]\TU/JannaLT(0)/b/n/12 210[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 263
+ [][][]\TU/JannaLT(0)/b/n/12 210[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 264
+ [][][]\TU/JannaLT(0)/b/n/12 210[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 265
+ [][][]\TU/JannaLT(0)/b/n/12 211[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 266
+ [][][]\TU/JannaLT(0)/b/n/12 211[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 267
+ [][][]\TU/JannaLT(0)/b/n/12 211[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 268
+ [][][]\TU/JannaLT(0)/b/n/12 212[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 269
+ [][][]\TU/JannaLT(0)/b/n/12 212[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 273
+ [][][]\TU/JannaLT(0)/b/n/12 214[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 277
+ [][][]\TU/JannaLT(0)/b/n/12 215[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 280
+ [][][]\TU/JannaLT(0)/b/n/12 216[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 282
+ [][][]\TU/JannaLT(0)/b/n/12 216[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[10]
+Overfull \hbox (3.25436pt too wide) detected at line 283
+ [][][]\TU/JannaLT(0)/b/n/12 217[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 286
+ [][][]\TU/JannaLT(0)/b/n/12 221[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 287
+ [][][]\TU/JannaLT(0)/b/n/12 221[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 288
+ [][][]\TU/JannaLT(0)/b/n/12 222[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 289
+ [][][]\TU/JannaLT(0)/b/n/12 223[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 290
+ [][][]\TU/JannaLT(0)/b/n/12 223[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 291
+ [][][]\TU/JannaLT(0)/b/n/12 225[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 292
+ [][][]\TU/JannaLT(0)/b/n/12 226[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 293
+ [][][]\TU/JannaLT(0)/b/n/12 226[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 294
+ [][][]\TU/JannaLT(0)/b/n/12 227[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 295
+ [][][]\TU/JannaLT(0)/b/n/12 227[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 296
+ [][][]\TU/JannaLT(0)/b/n/12 228[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 297
+ [][][]\TU/JannaLT(0)/b/n/12 228[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 298
+ [][][]\TU/JannaLT(0)/b/n/12 229[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 299
+ [][][]\TU/JannaLT(0)/b/n/12 230[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 301
+ [][][]\TU/JannaLT(0)/b/n/12 231[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 302
+ [][][]\TU/JannaLT(0)/b/n/12 231[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 303
+ [][][]\TU/JannaLT(0)/b/n/12 232[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 304
+ [][][]\TU/JannaLT(0)/b/n/12 233[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 305
+ [][][]\TU/JannaLT(0)/b/n/12 234[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 306
+ [][][]\TU/JannaLT(0)/b/n/12 235[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[11]
+Overfull \hbox (3.25436pt too wide) detected at line 307
+ [][][]\TU/JannaLT(0)/b/n/12 236[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 308
+ [][][]\TU/JannaLT(0)/b/n/12 236[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 309
+ [][][]\TU/JannaLT(0)/b/n/12 237[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 310
+ [][][]\TU/JannaLT(0)/b/n/12 237[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 313
+ [][][]\TU/JannaLT(0)/b/n/12 241[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 314
+ [][][]\TU/JannaLT(0)/b/n/12 241[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 315
+ [][][]\TU/JannaLT(0)/b/n/12 242[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 316
+ [][][]\TU/JannaLT(0)/b/n/12 242[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 317
+ [][][]\TU/JannaLT(0)/b/n/12 243[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 318
+ [][][]\TU/JannaLT(0)/b/n/12 243[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 319
+ [][][]\TU/JannaLT(0)/b/n/12 244[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 320
+ [][][]\TU/JannaLT(0)/b/n/12 244[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 321
+ [][][]\TU/JannaLT(0)/b/n/12 245[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 322
+ [][][]\TU/JannaLT(0)/b/n/12 245[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 323
+ [][][]\TU/JannaLT(0)/b/n/12 246[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 324
+ [][][]\TU/JannaLT(0)/b/n/12 246[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 325
+ [][][]\TU/JannaLT(0)/b/n/12 247[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 326
+ [][][]\TU/JannaLT(0)/b/n/12 247[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 327
+ [][][]\TU/JannaLT(0)/b/n/12 247[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 328
+ [][][]\TU/JannaLT(0)/b/n/12 248[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 329
+ [][][]\TU/JannaLT(0)/b/n/12 248[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 330
+ [][][]\TU/JannaLT(0)/b/n/12 249[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 331
+ [][][]\TU/JannaLT(0)/b/n/12 249[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[12]
+Overfull \hbox (3.25436pt too wide) detected at line 332
+ [][][]\TU/JannaLT(0)/b/n/12 250[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 333
+ [][][]\TU/JannaLT(0)/b/n/12 250[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 334
+ [][][]\TU/JannaLT(0)/b/n/12 250[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 335
+ [][][]\TU/JannaLT(0)/b/n/12 251[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 336
+ [][][]\TU/JannaLT(0)/b/n/12 251[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 337
+ [][][]\TU/JannaLT(0)/b/n/12 252[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 338
+ [][][]\TU/JannaLT(0)/b/n/12 253[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 339
+ [][][]\TU/JannaLT(0)/b/n/12 253[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 340
+ [][][]\TU/JannaLT(0)/b/n/12 254[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 341
+ [][][]\TU/JannaLT(0)/b/n/12 255[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 342
+ [][][]\TU/JannaLT(0)/b/n/12 256[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 343
+ [][][]\TU/JannaLT(0)/b/n/12 256[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 344
+ [][][]\TU/JannaLT(0)/b/n/12 257[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 345
+ [][][]\TU/JannaLT(0)/b/n/12 257[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 346
+ [][][]\TU/JannaLT(0)/b/n/12 257[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 347
+ [][][]\TU/JannaLT(0)/b/n/12 258[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 348
+ [][][]\TU/JannaLT(0)/b/n/12 258[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 349
+ [][][]\TU/JannaLT(0)/b/n/12 258[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 350
+ [][][]\TU/JannaLT(0)/b/n/12 259[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 351
+ [][][]\TU/JannaLT(0)/b/n/12 259[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 352
+ [][][]\TU/JannaLT(0)/b/n/12 259[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 353
+ [][][]\TU/JannaLT(0)/b/n/12 260[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 354
+ [][][]\TU/JannaLT(0)/b/n/12 260[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 355
+ [][][]\TU/JannaLT(0)/b/n/12 261[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 356
+ [][][]\TU/JannaLT(0)/b/n/12 261[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 357
+ [][][]\TU/JannaLT(0)/b/n/12 261[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 358
+ [][][]\TU/JannaLT(0)/b/n/12 262[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[13]
+Overfull \hbox (3.25436pt too wide) detected at line 359
+ [][][]\TU/JannaLT(0)/b/n/12 262[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 360
+ [][][]\TU/JannaLT(0)/b/n/12 263[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 361
+ [][][]\TU/JannaLT(0)/b/n/12 263[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 362
+ [][][]\TU/JannaLT(0)/b/n/12 263[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 363
+ [][][]\TU/JannaLT(0)/b/n/12 263[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 364
+ [][][]\TU/JannaLT(0)/b/n/12 264[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 365
+ [][][]\TU/JannaLT(0)/b/n/12 264[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 366
+ [][][]\TU/JannaLT(0)/b/n/12 264[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 367
+ [][][]\TU/JannaLT(0)/b/n/12 265[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 368
+ [][][]\TU/JannaLT(0)/b/n/12 265[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 369
+ [][][]\TU/JannaLT(0)/b/n/12 265[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 370
+ [][][]\TU/JannaLT(0)/b/n/12 266[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 371
+ [][][]\TU/JannaLT(0)/b/n/12 266[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 372
+ [][][]\TU/JannaLT(0)/b/n/12 266[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 373
+ [][][]\TU/JannaLT(0)/b/n/12 267[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 374
+ [][][]\TU/JannaLT(0)/b/n/12 267[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 375
+ [][][]\TU/JannaLT(0)/b/n/12 267[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 376
+ [][][]\TU/JannaLT(0)/b/n/12 267[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 377
+ [][][]\TU/JannaLT(0)/b/n/12 268[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 378
+ [][][]\TU/JannaLT(0)/b/n/12 268[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 379
+ [][][]\TU/JannaLT(0)/b/n/12 268[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 380
+ [][][]\TU/JannaLT(0)/b/n/12 269[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 381
+ [][][]\TU/JannaLT(0)/b/n/12 270[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 382
+ [][][]\TU/JannaLT(0)/b/n/12 271[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 384
+ [][][]\TU/JannaLT(0)/b/n/12 275[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[14]
+Overfull \hbox (3.25436pt too wide) detected at line 385
+ [][][]\TU/JannaLT(0)/b/n/12 277[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 386
+ [][][]\TU/JannaLT(0)/b/n/12 277[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 387
+ [][][]\TU/JannaLT(0)/b/n/12 278[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 388
+ [][][]\TU/JannaLT(0)/b/n/12 278[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 389
+ [][][]\TU/JannaLT(0)/b/n/12 278[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 390
+ [][][]\TU/JannaLT(0)/b/n/12 278[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 391
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 392
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 393
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 394
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 395
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 396
+ [][][]\TU/JannaLT(0)/b/n/12 279[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 397
+ [][][]\TU/JannaLT(0)/b/n/12 280[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 398
+ [][][]\TU/JannaLT(0)/b/n/12 280[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 399
+ [][][]\TU/JannaLT(0)/b/n/12 280[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 400
+ [][][]\TU/JannaLT(0)/b/n/12 280[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 401
+ [][][]\TU/JannaLT(0)/b/n/12 280[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 402
+ [][][]\TU/JannaLT(0)/b/n/12 281[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 403
+ [][][]\TU/JannaLT(0)/b/n/12 281[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 404
+ [][][]\TU/JannaLT(0)/b/n/12 281[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 405
+ [][][]\TU/JannaLT(0)/b/n/12 282[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 406
+ [][][]\TU/JannaLT(0)/b/n/12 282[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 407
+ [][][]\TU/JannaLT(0)/b/n/12 282[][][]
+ []
+
+
+Overfull \hbox (3.25436pt too wide) detected at line 408
+ [][][]\TU/JannaLT(0)/b/n/12 282[][][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[15])
+\tf@toc=\write5
+\openout5 = `"دليل النخبة الطبعة الثانية.toc"'.
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [16]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [17
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [18
+
+]
+
+LaTeX Font Warning: Font shape `TU/JannaLT(0)/m/it' undefined
+(Font)              using `TU/JannaLT(0)/m/n' instead on input line 258.
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 262--263
+[][]\TU/JannaLT(0)/b/n/12 الخطط مرنة وليست قيوداً: الخطط الواردة في الكتاب هي "
+نماذج[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[19]
+Package mdframed Info: mdframed works in twoside mode on input line 273.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [20]
+File: part1.pdf Graphic file (type pdf)
+<use part1.pdf>
+ [21
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [22
+
+]
+باب 1.
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 288.
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 288.
+Package mdframed Info: mdframed works in twoside mode on input line 295.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[23]
+Package mdframed Info: mdframed works in twoside mode on input line 308.
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/it' will be
+(Font)              scaled to size 14.39996pt on input line 308.
+
+Underfull \hbox (badness 1019) in paragraph at lines 316--317
+[][]\TU/JannaLT(0)/m/it/12 الانضباط المقدس: اجعل وقت الدراسة وقتاً لا يقبل التف
+اوض، تماماً[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[24]
+Package mdframed Info: mdframed works in twoside mode on input line 327.
+Package mdframed Info: mdframed works in twoside mode on input line 336.
+Package mdframed Info: mdframed works in twoside mode on input line 341.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [25]
+Package mdframed Info: Not enough space on this page on input line 341.
+
+Underfull \hbox (badness 2213) in paragraph at lines 348--349
+[][]\TU/JannaLT(0)/m/it/12 التعلم التشاركي: شارك أفكارك وما تعلمته مع زملائك ال
+طموحين،[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 357.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[26]
+Package mdframed Info: Not enough space on this page on input line 357.
+Package mdframed Info: mdframed works in twoside mode on input line 370.
+Package mdframed Info: mdframed works in twoside mode on input line 371.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [27]
+Package mdframed Info: mdframed works in twoside mode on input line 391.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [28]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [29]
+Package mdframed Info: mdframed works in twoside mode on input line 434.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [30]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [31]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [32]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [33]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [34
+
+]
+باب 2.
+Package mdframed Info: mdframed works in twoside mode on input line 514.
+
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [35]
+Package mdframed Info: mdframed works in twoside mode on input line 524.
+Package mdframed Info: mdframed works in twoside mode on input line 529.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [36]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+[37]
+Package mdframed Info: mdframed works in twoside mode on input line 572.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [38]
+Package mdframed Info: mdframed works in twoside mode on input line 589.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [39]
+Underfull \hbox (badness 2197) in paragraph at lines 600--601
+[][]\TU/JannaLT(0)/m/it/12 الاحتراق النفسي: نقص النوم الليلي يخل بإنتاج هرمونات
+ السعادة[]
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 608--609
+[]\TU/JannaLT(0)/m/it/12 تقريباً، حتى في أيام العطلة، لتصل إلى مرحلة الاستيقاظ 
+التلقائي[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[40]
+Package mdframed Info: mdframed works in twoside mode on input line 611.
+Package mdframed Info: mdframed works in twoside mode on input line 619.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [41]
+Package mdframed Info: mdframed works in twoside mode on input line 631.
+Package mdframed Info: mdframed works in twoside mode on input line 637.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [42]
+Package mdframed Info: Not enough space on this page on input line 637.
+Package mdframed Info: mdframed works in twoside mode on input line 649.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [43]
+Underfull \hbox (badness 2173) in paragraph at lines 666--667
+[]\TU/JannaLT(0)/m/it/12 وتشتت الانتباه، والوجبات السريعة (الفاست فود) والسكريا
+ت تسبب[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[44]
+File: part2.pdf Graphic file (type pdf)
+<use part2.pdf>
+ [45
+
+]
+Package mdframed Info: mdframed works in twoside mode on input line 688.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [46]
+باب 3.
+Package mdframed Info: mdframed works in twoside mode on input line 697.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[47
+
+]
+Package mdframed Info: mdframed works in twoside mode on input line 731.
+Package mdframed Info: mdframed works in twoside mode on input line 739.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [48]
+Package mdframed Info: mdframed works in twoside mode on input line 750.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [49]
+Underfull \hbox (badness 1043) in paragraph at lines 776--777
+[][]\TU/JannaLT(0)/m/it/12 نظم مصطلحات التاريخ والجغرافيا: اجمع المصطلحات الرئي
+سية للوحدة[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 779.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[50]
+Package mdframed Info: mdframed works in twoside mode on input line 786.
+
+Underfull \hbox (badness 2680) in paragraph at lines 798--799
+[][]\TU/JannaLT(0)/m/it/12 راجع المكتسبات القبلية: الكتلة المولية، التركيز، جدو
+ل التقدم،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[51]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [52]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [53]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [54]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [55]
+Package mdframed Info: mdframed works in twoside mode on input line 972.
+Package mdframed Info: mdframed works in twoside mode on input line 974.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [56]
+Package mdframed Info: mdframed works in twoside mode on input line 980.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [57]
+Package mdframed Info: mdframed works in twoside mode on input line 995.
+Package mdframed Info: Not enough space on this page on input line 995.
+
+Underfull \hbox (badness 3439) in paragraph at lines 1015--1016
+[]\TU/JannaLT(0)/m/it/12 العام (النهايات عند أطراف المجال، الاشتقاق، التغيرات، 
+التمثيل[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1020.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[58]
+Package mdframed Info: Not enough space on this page on input line 1020.
+
+Underfull \hbox (badness 3148) in paragraph at lines 1035--1036
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الأول: مراجعة مركزة للكتلة المولية، التركيز،
+ العلاقات[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1043.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[59]
+Package mdframed Info: mdframed works in twoside mode on input line 1066.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [60]
+Underfull \hbox (badness 1033) in paragraph at lines 1084--1085
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الأول: مراجعة إعراب المفردات والجمل (مصادر: 
+الأستاذ[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1092.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[61]
+Package mdframed Info: mdframed works in twoside mode on input line 1115.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [62]
+Package mdframed Info: mdframed works in twoside mode on input line 1138.
+Package mdframed Info: mdframed works in twoside mode on input line 1161.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [63]
+Package mdframed Info: mdframed works in twoside mode on input line 1184.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [64]
+Package mdframed Info: mdframed works in twoside mode on input line 1207.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [65]
+Package mdframed Info: mdframed works in twoside mode on input line 1223.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [66]
+Package mdframed Info: mdframed works in twoside mode on input line 1249.
+Package mdframed Info: mdframed works in twoside mode on input line 1256.
+Package mdframed Info: mdframed works in twoside mode on input line 1260.
+Package mdframed Info: mdframed works in twoside mode on input line 1268.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [67]
+Underfull \hbox (badness 1412) in paragraph at lines 1292--1293
+[][]\TU/JannaLT(0)/m/it/12 إتقان الدوال العددية: النهايات، الاشتقاق، الاستمراري
+ة، التغيرات،[]
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 1294--1295
+[][]\TU/JannaLT(0)/m/it/12 البدء في دراسة الدالة الأسية: خصائصها، نهاياتها، اشت
+قاقها،[]
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 1298--1299
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الأول: مراجعة شاملة للمكتسبات القبلية (الاشت
+قاقية،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[68]
+Package mdframed Info: mdframed works in twoside mode on input line 1306.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [69]
+Package mdframed Info: mdframed works in twoside mode on input line 1328.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [70]
+Underfull \hbox (badness 1142) in paragraph at lines 1348--1349
+[][]\TU/JannaLT(0)/m/it/12 مصادر مهمة: الأستاذة كتفي (شرح مفصل)، الأستاذ أيوب (
+تبسيط)،[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1351.
+
+Underfull \hbox (badness 2990) in paragraph at lines 1376--1377
+[][]\TU/JannaLT(0)/m/it/12 فهم القواعد المرتبطة بالوحدة [](Passive voice, condi
+tionals,[][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[71]
+Package mdframed Info: mdframed works in twoside mode on input line 1405.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [72]
+Package mdframed Info: Not enough space on this page on input line 1405.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [73]
+Package mdframed Info: mdframed works in twoside mode on input line 1459.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [74]
+Package mdframed Info: mdframed works in twoside mode on input line 1480.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [75]
+Package mdframed Info: mdframed works in twoside mode on input line 1488.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [76]
+Underfull \hbox (badness 1394) in paragraph at lines 1516--1517
+[][]\TU/JannaLT(0)/m/it/12 وحدة الميكانيك هي الأطول والأهم. ركز على فهم المفاهي
+م[]
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1539--1540
+[][]\TU/JannaLT(0)/m/it/12 حل موضوعين أو ثلاثة في الشعر المهجري من امتحانات ساب
+قة[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[77]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [78]
+Underfull \hbox (badness 1286) in paragraph at lines 1568--1569
+[][]\TU/JannaLT(0)/m/it/12 احفظ الدرس الأول من الجغرافيا (التقدم والتخلف) مع مص
+طلحاته[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[79]
+Package mdframed Info: mdframed works in twoside mode on input line 1602.
+Package mdframed Info: mdframed works in twoside mode on input line 1604.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [80]
+Package mdframed Info: mdframed works in twoside mode on input line 1611.
+
+Underfull \hbox (badness 1231) in paragraph at lines 1616--1617
+[][]\TU/JannaLT(0)/m/it/12 الأسبوعان الأول والثاني: تثبيت المكتسبات، ومعالجة ال
+ثغرات، وإنهاء[]
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 1630--1631
+[][]\TU/JannaLT(0)/m/it/12 العطلة: حل 3 تمارين شاملة في كل نوع من الدوال (عددية
+، أسية،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[81]
+Underfull \hbox (badness 2478) in paragraph at lines 1655--1656
+[][]\TU/JannaLT(0)/m/it/12 أنشئ ملخصاً لكل وحدة يشمل: المصطلحات المفتاحية، الأف
+كار[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[82]
+Underfull \hbox (badness 1661) in paragraph at lines 1678--1679
+[][]\TU/JannaLT(0)/m/it/12 الهدف: مراجعة الوحدة الأولى باستمرار (الحرب الباردة)
+ مع بدء حفظ[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[83]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [84]
+Package mdframed Info: mdframed works in twoside mode on input line 1722.
+Package mdframed Info: mdframed works in twoside mode on input line 1738.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [85]
+Package mdframed Info: Not enough space on this page on input line 1738.
+Package mdframed Info: mdframed works in twoside mode on input line 1745.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [86]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [87]
+Underfull \hbox (badness 1024) in paragraph at lines 1801--1802
+[][]\TU/JannaLT(0)/m/it/12 حل 2-‏3 تمارين على الأحماض والأسس (من البكالوريا أو 
+سلسلة[]
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 1805--1806
+[][]\TU/JannaLT(0)/m/it/12 مراجعة شاملة للوحدة الأولى (المتابعة الزمنية) والوحد
+ة الثانية[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[88]
+Underfull \hbox (badness 1194) in paragraph at lines 1816--1817
+[]\TU/JannaLT(0)/m/it/12 على الذات). استخدم فيديوهات الأستاذة كتفي (قائمة تشغيل
+[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[89]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [90]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [91]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [92]
+Package mdframed Info: mdframed works in twoside mode on input line 1929.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [93]
+Package mdframed Info: mdframed works in twoside mode on input line 1948.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [94]
+Package mdframed Info: mdframed works in twoside mode on input line 1991.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [95]
+Underfull \hbox (badness 6284) in paragraph at lines 2007--2008
+[][]\TU/JannaLT(0)/m/it/12 راجع جميع الوحدات (المتابعة الزمنية، الميكانيك، الكه
+رباء، الأحماض[]
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 2020--2021
+[][]\TU/JannaLT(0)/m/it/12 التاريخ والجغرافيا: راجع ما حفظته. خصص ساعة يومياً ل
+لمصطلحات[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[96]
+Package mdframed Info: mdframed works in twoside mode on input line 2027.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [97]
+Package mdframed Info: mdframed works in twoside mode on input line 2059.
+Package mdframed Info: mdframed works in twoside mode on input line 2062.
+Package mdframed Info: mdframed works in twoside mode on input line 2070.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [98]
+Underfull \hbox (badness 1259) in paragraph at lines 2076--2077
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الثاني (8-‏14 أفريل): التعمق في الوحدات النه
+ائية (الاتصال[]
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 2088--2089
+[][]\TU/JannaLT(0)/m/it/12 للمتأخرين: ابدأ بالأعداد المركبة من الصفر (شكل جبري،
+ عمليات،[]
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 2088--2089
+[]\TU/JannaLT(0)/m/it/12 معادلات). استخدم فيديوهات الأستاذ نور الدين أو الأستاذ
+ عبد[]
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 2093--2094
+[][]\TU/JannaLT(0)/m/it/12 للمتأخرين: أكمل الأعداد المركبة (دستور موافر، الأعدا
+د المثلثية،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[99]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [100]
+Underfull \hbox (badness 2384) in paragraph at lines 2146--2147
+[][]\TU/JannaLT(0)/m/it/12 ادرس الاتصال العصبي (الوحدة الخامسة). ركز على آلية ا
+لنقل[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[101]
+Underfull \hbox (badness 1661) in paragraph at lines 2177--2178
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الأول: ادرس الشعر السياسي (القضية الفلسطينية
+، الثورة[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[102]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [103]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [104]
+Package mdframed Info: mdframed works in twoside mode on input line 2229.
+Package mdframed Info: mdframed works in twoside mode on input line 2235.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [105]
+Package mdframed Info: mdframed works in twoside mode on input line 2248.
+
+Underfull \hbox (badness 4819) in paragraph at lines 2255--2255
+[]|[]\TU/JannaLT(0)/b/n/17.28 خطة شهر ماي: اللمسات الأخيرة ومحاكاة[] 
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2259.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[106]
+Underfull \hbox (badness 1043) in paragraph at lines 2270--2271
+[][]\TU/JannaLT(0)/m/it/12 الفترة الصباحية (التركيز العالي): حل موضوع كامل في م
+ادة أساسية[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2275.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[107]
+Package mdframed Info: mdframed works in twoside mode on input line 2281.
+Package mdframed Info: mdframed works in twoside mode on input line 2296.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [108]
+Underfull \hbox (badness 3758) in paragraph at lines 2319--2320
+[][]\TU/JannaLT(0)/m/it/12 الأسبوع الثالث والرابع: المناعة (الذات واللاذات، الا
+ستجابة الخلطية[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[109]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [110]
+Package mdframed Info: mdframed works in twoside mode on input line 2336.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [111]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [112]
+Package mdframed Info: mdframed works in twoside mode on input line 2397.
+Package mdframed Info: mdframed works in twoside mode on input line 2400.
+
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 2400.
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[113]
+Package mdframed Info: mdframed works in twoside mode on input line 2406.
+Package mdframed Info: mdframed works in twoside mode on input line 2410.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [114]
+باب 4.
+Package mdframed Info: mdframed works in twoside mode on input line 2437.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[115
+
+]
+Package mdframed Info: Not enough space on this page on input line 2437.
+Package mdframed Info: mdframed works in twoside mode on input line 2444.
+Package mdframed Info: mdframed works in twoside mode on input line 2454.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [116]
+Package mdframed Info: Not enough space on this page on input line 2454.
+Package mdframed Info: mdframed works in twoside mode on input line 2460.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [117]
+Package mdframed Info: mdframed works in twoside mode on input line 2474.
+Package mdframed Info: mdframed works in twoside mode on input line 2483.
+Package mdframed Info: Not enough space on this page on input line 2483.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [118]
+Package mdframed Info: Not enough space on this page on input line 2483.
+Package mdframed Info: mdframed works in twoside mode on input line 2494.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 2501.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [119]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [120]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [121]
+Package mdframed Info: mdframed works in twoside mode on input line 2557.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [122]
+Underfull \hbox (badness 1237) in paragraph at lines 2574--2575
+[]\TU/JannaLT(0)/m/it/12 خصصهما بالكامل للمواد الأساسية (الرياضيات والفيزياء وا
+لعلوم) وحل[]
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 2576--2577
+[][]\TU/JannaLT(0)/m/it/12 استغلال أوقات الفراغ: حتى لو كان لديك 15 دقيقة بين م
+حاضرتين،[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2579.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[123]
+Package mdframed Info: mdframed works in twoside mode on input line 2592.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [124]
+Package mdframed Info: mdframed works in twoside mode on input line 2621.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [125]
+Package mdframed Info: mdframed works in twoside mode on input line 2631.
+Package mdframed Info: mdframed works in twoside mode on input line 2635.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [126]
+باب 5.
+Package mdframed Info: mdframed works in twoside mode on input line 2652.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[127
+
+]
+Package mdframed Info: mdframed works in twoside mode on input line 2665.
+Package mdframed Info: mdframed works in twoside mode on input line 2668.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [128]
+Package mdframed Info: mdframed works in twoside mode on input line 2707.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [129]
+Package mdframed Info: Not enough space on this page on input line 2707.
+Package mdframed Info: mdframed works in twoside mode on input line 2722.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [130]
+Underfull \hbox (badness 1292) in paragraph at lines 2737--2737
+[]|[]\TU/JannaLT(0)/b/n/17.28 كيف تستخدم الذكاء الاصطناعي في دراستك[] 
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2741.
+
+Underfull \hbox (badness 2020) in paragraph at lines 2748--2749
+[]\TU/JannaLT(0)/m/it/12 الملفات الضخمة. الميزة الأهم فيه هي "التفكير العميق" (
+[]Deep[][]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[131]
+File: downsub.png Graphic file (type bmp)
+<downsub.png>
+
+Overfull \hbox (11.53896pt too wide) in paragraph at lines 2762--2763
+ [][][][][][] 
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[132]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [133]
+Package mdframed Info: mdframed works in twoside mode on input line 2783.
+
+Underfull \hbox (badness 1331) in paragraph at lines 2790--2791
+[]\TU/JannaLT(0)/m/it/12 من الكتاب، استخدم []CamScanner[] لتحويله إلى نص ثم ارف
+عه للذكاء[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[134]
+Package mdframed Info: mdframed works in twoside mode on input line 2799.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [135]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [136
+
+]
+باب 6.
+Package mdframed Info: mdframed works in twoside mode on input line 2825.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[137]
+Package mdframed Info: Not enough space on this page on input line 2825.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [138]
+Package mdframed Info: mdframed works in twoside mode on input line 2847.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [139]
+Underfull \hbox (badness 1571) in paragraph at lines 2878--2879
+[][]\TU/JannaLT(0)/m/it/12 عدم فهم الدرس جيداً قبل التمارين: الطالب يندفع للحل 
+دون فهم[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[140]
+Package mdframed Info: mdframed works in twoside mode on input line 2888.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [141]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [142]
+Package mdframed Info: mdframed works in twoside mode on input line 2921.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [143]
+Underfull \hbox (badness 1253) in paragraph at lines 2949--2950
+[][]\TU/JannaLT(0)/m/it/12 تعلم طريقة الرسم بالخطوات الثلاث: رسم المستقيمات (ال
+مقاربات،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[144]
+Package mdframed Info: mdframed works in twoside mode on input line 2972.
+
+Underfull \hbox (badness 1178) in paragraph at lines 2975--2976
+[]\TU/JannaLT(0)/m/it/12 كثير من الطلاب يدخلون إلى الفيزياء وهم مقتنعون بأنها "
+صعبة" أو "ما[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[145]
+Package mdframed Info: mdframed works in twoside mode on input line 2977.
+
+Underfull \hbox (badness 3713) in paragraph at lines 2988--2989
+[][]\TU/JannaLT(0)/m/it/12 الوحدة 6: مراقبة تطور جملة كيميائية (الأعمدة الكهربا
+ئية، التحليل[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[146]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [147]
+Package mdframed Info: mdframed works in twoside mode on input line 3031.
+Package mdframed Info: mdframed works in twoside mode on input line 3043.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [148]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [149]
+Underfull \hbox (badness 1297) in paragraph at lines 3091--3092
+[][]\TU/JannaLT(0)/m/it/12 موقع "المنجد" [](el-mounjid.com)[]: موقع رائع يقدم د
+روساً مفصلة،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[150]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [151]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [152]
+Package mdframed Info: mdframed works in twoside mode on input line 3139.
+Package mdframed Info: mdframed works in twoside mode on input line 3148.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [153]
+Package mdframed Info: mdframed works in twoside mode on input line 3160.
+Package mdframed Info: Not enough space on this page on input line 3160.
+Package mdframed Info: mdframed works in twoside mode on input line 3170.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [154]
+LaTeX Font Info:    Font shape `TU/JannaLT(0)/m/n' will be
+(Font)              scaled to size 18.71999pt on input line 3183.
+Package mdframed Info: mdframed works in twoside mode on input line 3183.
+
+Underfull \hbox (badness 3260) in paragraph at lines 3183--3183
+[][]\TU/JannaLT(0)/m/it/12 كنت نكتب كل التفاصيل في كراس الخفاء، الاستنتاجات،[]
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 3187--3188
+[][]\TU/JannaLT(0)/m/it/12 الأستاذ ياسين (بروف ياسين سيونس): ممتاز في التمارين[
+]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3194.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[155]
+Package mdframed Info: mdframed works in twoside mode on input line 3202.
+
+Underfull \hbox (badness 1292) in paragraph at lines 3212--3213
+[]\TU/JannaLT(0)/m/it/12 الضخم. سترجع إلى هذه الملخصات المختصرة التي تحتوي على[
+]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[156]
+Package mdframed Info: mdframed works in twoside mode on input line 3228.
+Package mdframed Info: mdframed works in twoside mode on input line 3230.
+
+Underfull \hbox (badness 1281) in paragraph at lines 3230--3230
+[][]\TU/JannaLT(0)/m/it/12 الملخص راح يحمل جميع الأساسيات والكلمات المفتاحية، ا
+للي راح[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[157]
+Underfull \hbox (badness 5548) in paragraph at lines 3241--3242
+[][]\TU/JannaLT(0)/m/it/12 المراحل والآليات: خطوات الاستنساخ، خطوات الترجمة، مر
+احل[]
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 3246--3247
+[][]\TU/JannaLT(0)/m/it/12 البطاقات التعليمية [](Flash Cards)[]: اكتب المصطلح ع
+لى وجه،[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3252.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[158]
+Underfull \hbox (badness 3826) in paragraph at lines 3271--3271
+[]\TU/JannaLT(0)/m/it/12 المنهجية، وفي استعمال المصطلحات. تقول أسماء (20 في[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3271.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[159]
+Package mdframed Info: Not enough space on this page on input line 3271.
+Package mdframed Info: mdframed works in twoside mode on input line 3282.
+Package mdframed Info: mdframed works in twoside mode on input line 3283.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [160]
+Underfull \hbox (badness 1210) in paragraph at lines 3293--3294
+[][]\TU/JannaLT(0)/m/it/12 السلسلة الزرقاء (بكالوريات أجنبية مترجمة): تحتوي على
+ أفكار عميقة[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3298.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[161]
+Package mdframed Info: mdframed works in twoside mode on input line 3309.
+
+Underfull \hbox (badness 1546) in paragraph at lines 3312--3313
+[][]\TU/JannaLT(0)/m/it/12 أنجز/ارسم: اتبع الخطوات المنهجية للرسم (عنوان، إطار،
+ تسميات...).[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[162]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [163]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [164]
+Underfull \hbox (badness 6157) in paragraph at lines 3384--3385
+[][]\TU/JannaLT(0)/m/it/12 التنفس: تحويل الطاقة الكيميائية (الجلوكوز) إلى طاقة 
+قابلة[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3390.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[165]
+Package mdframed Info: mdframed works in twoside mode on input line 3397.
+
+Underfull \hbox (badness 1859) in paragraph at lines 3399--3399
+[][]\TU/JannaLT(0)/m/it/12 تكرار نفس الأفكار: يحل 100 تمرين بنفس الفكرة، ويعتقد
+ أنه أنجز[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3399.
+Package mdframed Info: mdframed works in twoside mode on input line 3402.
+Package mdframed Info: mdframed works in twoside mode on input line 3405.
+Package mdframed Info: mdframed works in twoside mode on input line 3408.
+Package mdframed Info: Not enough space on this page on input line 3408.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[166]
+Package mdframed Info: Not enough space on this page on input line 3408.
+Package mdframed Info: mdframed works in twoside mode on input line 3420.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [167]
+Package mdframed Info: mdframed works in twoside mode on input line 3434.
+
+Underfull \hbox (badness 2393) in paragraph at lines 3446--3447
+[][]\TU/JannaLT(0)/m/it/12 بالنسبة للشعب العلمية (علوم تجريبية، رياضيات، تقني ر
+ياضي، تسيير[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3455.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[168]
+Package mdframed Info: mdframed works in twoside mode on input line 3467.
+Package mdframed Info: mdframed works in twoside mode on input line 3473.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [169]
+Package mdframed Info: mdframed works in twoside mode on input line 3487.
+Package mdframed Info: mdframed works in twoside mode on input line 3499.
+Package mdframed Info: Not enough space on this page on input line 3499.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [170]
+Package mdframed Info: Not enough space on this page on input line 3499.
+Package mdframed Info: mdframed works in twoside mode on input line 3509.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [171]
+Package mdframed Info: mdframed works in twoside mode on input line 3539.
+Package mdframed Info: mdframed works in twoside mode on input line 3551.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [172]
+Package mdframed Info: Not enough space on this page on input line 3551.
+Package mdframed Info: mdframed works in twoside mode on input line 3572.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [173]
+Underfull \hbox (badness 2103) in paragraph at lines 3587--3588
+[][]\TU/JannaLT(0)/m/it/12 عرض: تعرض فيه الأفكار الرئيسية مرتبة باستخدام أدوات 
+الربط[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3594.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[174]
+Package mdframed Info: mdframed works in twoside mode on input line 3606.
+
+Underfull \hbox (badness 1303) in paragraph at lines 3606--3606
+[][]\TU/JannaLT(0)/m/it/12 في هذه المرحلة المتقدمة، الأولوية القصوى هي لفهم الن
+ص وإتقان[]
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 3618--3619
+[][]\TU/JannaLT(0)/m/it/12 الأستاذ أسامة: يتميز بشرحه الواضح لمنهجية []compte r
+endu[] وحل[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[175]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [176]
+Underfull \hbox (badness 1308) in paragraph at lines 3664--3665
+[][]\TU/JannaLT(0)/m/it/12 compte rendu[] بشكل عشوائي، فيخلطون بين الأفكار، ولا
+ يلتزمون[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 3667.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[177]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [178]
+Package mdframed Info: mdframed works in twoside mode on input line 3698.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [179]
+Package mdframed Info: mdframed works in twoside mode on input line 3718.
+Package mdframed Info: mdframed works in twoside mode on input line 3730.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [180]
+Package mdframed Info: mdframed works in twoside mode on input line 3743.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [181]
+Package mdframed Info: mdframed works in twoside mode on input line 3769.
+Package mdframed Info: Not enough space on this page on input line 3769.
+Package mdframed Info: mdframed works in twoside mode on input line 3781.
+Package mdframed Info: mdframed works in twoside mode on input line 3794.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [182]
+Package mdframed Info: mdframed works in twoside mode on input line 3803.
+Package mdframed Info: mdframed works in twoside mode on input line 3805.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [183]
+Package mdframed Info: mdframed works in twoside mode on input line 3854.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [184]
+Package mdframed Info: Not enough space on this page on input line 3854.
+Package mdframed Info: mdframed works in twoside mode on input line 3865.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [185]
+Package mdframed Info: mdframed works in twoside mode on input line 3891.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [186]
+Package mdframed Info: mdframed works in twoside mode on input line 3917.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [187]
+Package mdframed Info: mdframed works in twoside mode on input line 3948.
+Package mdframed Info: mdframed works in twoside mode on input line 3950.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [188]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+[189]
+Package mdframed Info: mdframed works in twoside mode on input line 4019.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [190]
+Package mdframed Info: Not enough space on this page on input line 4019.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [191]
+Package mdframed Info: mdframed works in twoside mode on input line 4056.
+Package mdframed Info: mdframed works in twoside mode on input line 4061.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [192]
+Package mdframed Info: mdframed works in twoside mode on input line 4094.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [193]
+Package mdframed Info: Not enough space on this page on input line 4094.
+Package mdframed Info: mdframed works in twoside mode on input line 4117.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [194]
+Package mdframed Info: mdframed works in twoside mode on input line 4132.
+Package mdframed Info: mdframed works in twoside mode on input line 4134.
+Package mdframed Info: mdframed works in twoside mode on input line 4143.
+Package mdframed Info: Not enough space on this page on input line 4143.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [195]
+Package mdframed Info: Not enough space on this page on input line 4143.
+
+Underfull \hbox (badness 1400) in paragraph at lines 4147--4148
+[][]\TU/JannaLT(0)/m/it/12 تابع شروحات أساتذة موثوقين على اليوتيوب (مثل الأستاذ
+ موسلي،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[196]
+Package mdframed Info: mdframed works in twoside mode on input line 4177.
+Package mdframed Info: mdframed works in twoside mode on input line 4183.
+Package mdframed Info: mdframed works in twoside mode on input line 4196.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [197]
+Package mdframed Info: Not enough space on this page on input line 4196.
+Package mdframed Info: mdframed works in twoside mode on input line 4225.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [198]
+Package mdframed Info: Not enough space on this page on input line 4225.
+
+Underfull \hbox (badness 1087) in paragraph at lines 4236--4237
+[][]\TU/JannaLT(0)/m/it/12 تدرب على أسئلة الفهم: حل مواضيع البكالوريا السابقة ي
+عودك على[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4242.
+Package mdframed Info: mdframed works in twoside mode on input line 4249.
+Package mdframed Info: mdframed works in twoside mode on input line 4251.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[199]
+Package mdframed Info: Not enough space on this page on input line 4251.
+
+Underfull \hbox (badness 1603) in paragraph at lines 4261--4262
+[]\TU/JannaLT(0)/m/it/12 وصانعة محتوى تعليمي، لتشارك الطلاب أسرار التفوق في ماد
+تي التاريخ[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4270.
+Package mdframed Info: mdframed works in twoside mode on input line 4279.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[200]
+Package mdframed Info: mdframed works in twoside mode on input line 4293.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [201]
+Package mdframed Info: mdframed works in twoside mode on input line 4317.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [202]
+Package mdframed Info: mdframed works in twoside mode on input line 4346.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [203]
+Package mdframed Info: mdframed works in twoside mode on input line 4389.
+Package mdframed Info: Not enough space on this page on input line 4389.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [204]
+Package mdframed Info: Not enough space on this page on input line 4389.
+Package mdframed Info: mdframed works in twoside mode on input line 4398.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [205]
+Package mdframed Info: mdframed works in twoside mode on input line 4430.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [206]
+Package mdframed Info: mdframed works in twoside mode on input line 4461.
+Package mdframed Info: mdframed works in twoside mode on input line 4470.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [207]
+Package mdframed Info: mdframed works in twoside mode on input line 4489.
+Package mdframed Info: mdframed works in twoside mode on input line 4495.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [208]
+Package mdframed Info: mdframed works in twoside mode on input line 4509.
+Package mdframed Info: mdframed works in twoside mode on input line 4516.
+Package mdframed Info: mdframed works in twoside mode on input line 4520.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [209]
+Package mdframed Info: mdframed works in twoside mode on input line 4539.
+Package mdframed Info: mdframed works in twoside mode on input line 4548.
+Package mdframed Info: mdframed works in twoside mode on input line 4552.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [210]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [211]
+Package mdframed Info: mdframed works in twoside mode on input line 4592.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+[212]
+Underfull \hbox (badness 2443) in paragraph at lines 4615--4616
+[][]\TU/JannaLT(0)/m/it/12 عموميات حول الطوبوغرافيا: حساب المساحات (الإحداثيات 
+الديكارتية[]
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 4621--4622
+[][]\TU/JannaLT(0)/m/it/12 الخرسانة المسلحة: مقدمة، الحالات الحدية، خصائص الموا
+د (الخرسانة[]
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 4621--4622
+[]\TU/JannaLT(0)/m/it/12 والفولاذ)، تبرير المقاطع المعرضة للتحريضات الناتجة (ال
+شد البسيط[]
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 4630--4631
+[][]\TU/JannaLT(0)/m/it/12 مراجعات شاملة (الانحناء البسيط، التحريضات البسيطة، ا
+لأنظمة[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[213]
+Underfull \hbox (badness 1259) in paragraph at lines 4642--4643
+[][]\TU/JannaLT(0)/m/it/12 الطوبوغرافيا: ركز على طرق حساب المساحات، فهي تأتي غا
+لباً في[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4645.
+
+Underfull \hbox (badness 1221) in paragraph at lines 4650--4651
+[]\TU/JannaLT(0)/m/it/12 الهندسة الكهربائية تركز على المنطق التعاقبي، وظيفة الذ
+اكرة، السجلات،[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[214]
+Underfull \hbox (badness 2057) in paragraph at lines 4672--4673
+[][]\TU/JannaLT(0)/m/it/12 كتاب "الرفيق في الهندسة الكهربائية": يحتوي على حوليا
+ت وحلول[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4679.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[215]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [216]
+Underfull \hbox (badness 1142) in paragraph at lines 4732--4733
+[][]\TU/JannaLT(0)/m/it/12 ديسمبر – جانفي: الانتقال إلى الوحدات الأكثر تعقيداً 
+(مثل الأنظمة[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4737.
+Package mdframed Info: mdframed works in twoside mode on input line 4744.
+Package mdframed Info: mdframed works in twoside mode on input line 4749.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[217]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [218
+
+]
+File: part3.pdf Graphic file (type pdf)
+<use part3.pdf>
+ [219]
+Package mdframed Info: mdframed works in twoside mode on input line 4773.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [220]
+باب 7.
+Package mdframed Info: mdframed works in twoside mode on input line 4788.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[221
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [222]
+Package mdframed Info: mdframed works in twoside mode on input line 4822.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [223]
+Package mdframed Info: mdframed works in twoside mode on input line 4844.
+Package mdframed Info: mdframed works in twoside mode on input line 4849.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [224]
+Package mdframed Info: Not enough space on this page on input line 4849.
+Package mdframed Info: mdframed works in twoside mode on input line 4851.
+Package mdframed Info: mdframed works in twoside mode on input line 4858.
+Package mdframed Info: mdframed works in twoside mode on input line 4864.
+Package mdframed Info: mdframed works in twoside mode on input line 4882.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [225]
+Package mdframed Info: Not enough space on this page on input line 4882.
+Package mdframed Info: mdframed works in twoside mode on input line 4885.
+
+Underfull \hbox (badness 1442) in paragraph at lines 4890--4891
+[][]\TU/JannaLT(0)/m/it/12 عدم المشاركة: بعض الطلاب يتغيبون عن التجريبي بدعوى أ
+نهم غير[]
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 4899--4899
+[]|[]\TU/JannaLT(0)/b/n/17.28 ليلة الامتحان: الاستعداد النفسي والمادي[] 
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 4903.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[226]
+Underfull \hbox (badness 2012) in paragraph at lines 4922--4923
+[][]\TU/JannaLT(0)/m/it/12 المقارنة بالآخرين: لا تسأل زملاءك "شحال قرايتو؟" أو 
+"واش راكم[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[227]
+Package mdframed Info: mdframed works in twoside mode on input line 4926.
+Package mdframed Info: mdframed works in twoside mode on input line 4939.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [228]
+Package mdframed Info: mdframed works in twoside mode on input line 4954.
+Package mdframed Info: mdframed works in twoside mode on input line 4956.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [229]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [230]
+باب 8.
+Package mdframed Info: mdframed works in twoside mode on input line 5002.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[231
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [232]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [233]
+Package mdframed Info: mdframed works in twoside mode on input line 5061.
+Package mdframed Info: mdframed works in twoside mode on input line 5063.
+Package mdframed Info: mdframed works in twoside mode on input line 5065.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [234]
+Underfull \hbox (badness 1221) in paragraph at lines 5078--5079
+[][]\TU/JannaLT(0)/m/it/12 استخدم العناوين الجانبية: في المقالات (مقدمة، عرض، خ
+اتمة) وفي[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5084.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[235]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [236]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [237]
+Package mdframed Info: mdframed works in twoside mode on input line 5136.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [238]
+File: part4.pdf Graphic file (type pdf)
+<use part4.pdf>
+ [239
+
+]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [240]
+باب 9.
+Package mdframed Info: mdframed works in twoside mode on input line 5155.
+Package mdframed Info: mdframed works in twoside mode on input line 5172.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[241
+
+]
+Package mdframed Info: Not enough space on this page on input line 5172.
+Package mdframed Info: mdframed works in twoside mode on input line 5176.
+Package mdframed Info: mdframed works in twoside mode on input line 5183.
+Package mdframed Info: mdframed works in twoside mode on input line 5186.
+Package mdframed Info: mdframed works in twoside mode on input line 5188.
+Package mdframed Info: mdframed works in twoside mode on input line 5197.
+Package mdframed Info: Not enough space on this page on input line 5197.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [242]
+Package mdframed Info: Not enough space on this page on input line 5197.
+Package mdframed Info: mdframed works in twoside mode on input line 5200.
+Package mdframed Info: mdframed works in twoside mode on input line 5202.
+Package mdframed Info: mdframed works in twoside mode on input line 5211.
+Package mdframed Info: mdframed works in twoside mode on input line 5218.
+Package mdframed Info: mdframed works in twoside mode on input line 5225.
+Package mdframed Info: Not enough space on this page on input line 5225.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [243]
+Package mdframed Info: Not enough space on this page on input line 5225.
+Package mdframed Info: mdframed works in twoside mode on input line 5230.
+Package mdframed Info: mdframed works in twoside mode on input line 5232.
+Package mdframed Info: mdframed works in twoside mode on input line 5239.
+Package mdframed Info: mdframed works in twoside mode on input line 5245.
+Package mdframed Info: mdframed works in twoside mode on input line 5252.
+Package mdframed Info: Not enough space on this page on input line 5252.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [244]
+Package mdframed Info: Not enough space on this page on input line 5252.
+Package mdframed Info: mdframed works in twoside mode on input line 5254.
+
+Underfull \hbox (badness 3503) in paragraph at lines 5256--5257
+[][]\TU/JannaLT(0)/m/it/12 وينصح الأولياء بعدم الضغط على أبنائهم لاختيار تخصصات
+ معينة، بل[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5258.
+Package mdframed Info: mdframed works in twoside mode on input line 5265.
+Package mdframed Info: mdframed works in twoside mode on input line 5271.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[245]
+Package mdframed Info: mdframed works in twoside mode on input line 5296.
+Package mdframed Info: mdframed works in twoside mode on input line 5303.
+
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 5303.
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[246]
+Package mdframed Info: mdframed works in twoside mode on input line 5320.
+Package mdframed Info: mdframed works in twoside mode on input line 5322.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [247]
+Package mdframed Info: mdframed works in twoside mode on input line 5333.
+
+Underfull \hbox (badness 4303) in paragraph at lines 5343--5344
+[][]\TU/JannaLT(0)/m/it/12 المواد الثانوية ليست ثانوية: تؤكد رونق على خطأ كبير 
+يقع فيه[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5344.
+
+Underfull \hbox (badness 1009) in paragraph at lines 5350--5351
+[]\TU/JannaLT(0)/m/it/12 والتاريخ والجغرافيا). لكنها أكدت أن الدروس الخصوصية كا
+نت للإضافة[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[248]
+Package mdframed Info: mdframed works in twoside mode on input line 5352.
+Package mdframed Info: mdframed works in twoside mode on input line 5358.
+Package mdframed Info: mdframed works in twoside mode on input line 5359.
+Package mdframed Info: mdframed works in twoside mode on input line 5365.
+Package mdframed Info: mdframed works in twoside mode on input line 5366.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [249]
+Package mdframed Info: Not enough space on this page on input line 5366.
+Package mdframed Info: mdframed works in twoside mode on input line 5373.
+Package mdframed Info: mdframed works in twoside mode on input line 5374.
+Package mdframed Info: mdframed works in twoside mode on input line 5379.
+
+Underfull \hbox (badness 1292) in paragraph at lines 5384--5385
+[]\TU/JannaLT(0)/m/it/12 بمعدل 19,52، والأولى بمعدل المواد الأساسية (العلامة ال
+كاملة 20/20).[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[250]
+Package mdframed Info: mdframed works in twoside mode on input line 5391.
+Package mdframed Info: mdframed works in twoside mode on input line 5395.
+Package mdframed Info: mdframed works in twoside mode on input line 5401.
+Package mdframed Info: mdframed works in twoside mode on input line 5412.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [251]
+Package mdframed Info: Not enough space on this page on input line 5412.
+Package mdframed Info: mdframed works in twoside mode on input line 5416.
+Package mdframed Info: mdframed works in twoside mode on input line 5420.
+Package mdframed Info: mdframed works in twoside mode on input line 5427.
+Package mdframed Info: mdframed works in twoside mode on input line 5433.
+Package mdframed Info: mdframed works in twoside mode on input line 5437.
+Package mdframed Info: Not enough space on this page on input line 5437.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [252]
+Package mdframed Info: Not enough space on this page on input line 5437.
+Package mdframed Info: mdframed works in twoside mode on input line 5441.
+Package mdframed Info: mdframed works in twoside mode on input line 5443.
+Package mdframed Info: mdframed works in twoside mode on input line 5450.
+Package mdframed Info: mdframed works in twoside mode on input line 5460.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [253]
+Package mdframed Info: mdframed works in twoside mode on input line 5473.
+Package mdframed Info: mdframed works in twoside mode on input line 5480.
+Package mdframed Info: mdframed works in twoside mode on input line 5484.
+Package mdframed Info: mdframed works in twoside mode on input line 5490.
+Package mdframed Info: mdframed works in twoside mode on input line 5497.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [254]
+Package mdframed Info: mdframed works in twoside mode on input line 5501.
+Package mdframed Info: mdframed works in twoside mode on input line 5505.
+Package mdframed Info: mdframed works in twoside mode on input line 5509.
+Package mdframed Info: mdframed works in twoside mode on input line 5513.
+Package mdframed Info: mdframed works in twoside mode on input line 5517.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [255]
+Package mdframed Info: mdframed works in twoside mode on input line 5526.
+Package mdframed Info: mdframed works in twoside mode on input line 5530.
+Package mdframed Info: mdframed works in twoside mode on input line 5534.
+Package mdframed Info: mdframed works in twoside mode on input line 5538.
+Package mdframed Info: mdframed works in twoside mode on input line 5542.
+Package mdframed Info: mdframed works in twoside mode on input line 5549.
+Package mdframed Info: mdframed works in twoside mode on input line 5551.
+Package mdframed Info: Not enough space on this page on input line 5551.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [256]
+Package mdframed Info: Not enough space on this page on input line 5551.
+Package mdframed Info: mdframed works in twoside mode on input line 5562.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [257]
+Package mdframed Info: mdframed works in twoside mode on input line 5579.
+Package mdframed Info: mdframed works in twoside mode on input line 5585.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [258]
+Package mdframed Info: mdframed works in twoside mode on input line 5596.
+Package mdframed Info: mdframed works in twoside mode on input line 5601.
+Package mdframed Info: mdframed works in twoside mode on input line 5606.
+Package mdframed Info: mdframed works in twoside mode on input line 5612.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [259]
+Package mdframed Info: mdframed works in twoside mode on input line 5618.
+Package mdframed Info: mdframed works in twoside mode on input line 5620.
+
+Underfull \hbox (badness 3536) in paragraph at lines 5621--5622
+[]\TU/JannaLT(0)/m/it/12 كما تتحدث عن الانتقادات السلبية التي واجهتها بعد ظهوره
+ا الإعلامي،[]
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5622.
+Package mdframed Info: mdframed works in twoside mode on input line 5627.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[260]
+Package mdframed Info: mdframed works in twoside mode on input line 5639.
+Package mdframed Info: mdframed works in twoside mode on input line 5650.
+Package mdframed Info: Not enough space on this page on input line 5650.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [261]
+Package mdframed Info: Not enough space on this page on input line 5650.
+Package mdframed Info: mdframed works in twoside mode on input line 5671.
+
+Underfull \hbox (badness 1668) in paragraph at lines 5676--5677
+[][]\TU/JannaLT(0)/m/it/12 الكتابة: بعد الفهم والحفظ، يعيد كتابة ما حفظه على ور
+قة لترسيخ[]
+ []
+
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[262]
+Package mdframed Info: mdframed works in twoside mode on input line 5698.
+Package mdframed Info: mdframed works in twoside mode on input line 5703.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [263]
+Package mdframed Info: mdframed works in twoside mode on input line 5721.
+Package mdframed Info: mdframed works in twoside mode on input line 5726.
+Package mdframed Info: mdframed works in twoside mode on input line 5728.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [264]
+Package mdframed Info: Not enough space on this page on input line 5728.
+Package mdframed Info: mdframed works in twoside mode on input line 5737.
+Package mdframed Info: mdframed works in twoside mode on input line 5747.
+Package mdframed Info: mdframed works in twoside mode on input line 5753.
+Package mdframed Info: mdframed works in twoside mode on input line 5761.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [265]
+Package mdframed Info: Not enough space on this page on input line 5761.
+Package mdframed Info: mdframed works in twoside mode on input line 5767.
+Package mdframed Info: mdframed works in twoside mode on input line 5771.
+Package mdframed Info: mdframed works in twoside mode on input line 5777.
+Package mdframed Info: mdframed works in twoside mode on input line 5781.
+Package mdframed Info: mdframed works in twoside mode on input line 5785.
+Package mdframed Info: Not enough space on this page on input line 5785.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [266]
+Package mdframed Info: Not enough space on this page on input line 5785.
+Package mdframed Info: mdframed works in twoside mode on input line 5791.
+Package mdframed Info: mdframed works in twoside mode on input line 5795.
+Package mdframed Info: mdframed works in twoside mode on input line 5799.
+Package mdframed Info: mdframed works in twoside mode on input line 5803.
+Package mdframed Info: mdframed works in twoside mode on input line 5807.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [267]
+Package mdframed Info: Not enough space on this page on input line 5807.
+Package mdframed Info: mdframed works in twoside mode on input line 5811.
+Package mdframed Info: mdframed works in twoside mode on input line 5815.
+Package mdframed Info: mdframed works in twoside mode on input line 5817.
+Package mdframed Info: mdframed works in twoside mode on input line 5834.
+Package mdframed Info: mdframed works in twoside mode on input line 5838.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [268]
+Package mdframed Info: Not enough space on this page on input line 5838.
+Package mdframed Info: mdframed works in twoside mode on input line 5840.
+Package mdframed Info: mdframed works in twoside mode on input line 5846.
+Package mdframed Info: mdframed works in twoside mode on input line 5850.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [269]
+Package mdframed Info: mdframed works in twoside mode on input line 5867.
+Package mdframed Info: mdframed works in twoside mode on input line 5882.
+Package mdframed Info: Not enough space on this page on input line 5882.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [270]
+Package mdframed Info: Not enough space on this page on input line 5882.
+Package mdframed Info: mdframed works in twoside mode on input line 5890.
+Package mdframed Info: mdframed works in twoside mode on input line 5895.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [271]
+Package mdframed Info: mdframed works in twoside mode on input line 5909.
+Package mdframed Info: mdframed works in twoside mode on input line 5912.
+Package mdframed Info: mdframed works in twoside mode on input line 5918.
+Package mdframed Info: mdframed works in twoside mode on input line 5921.
+Package mdframed Info: mdframed works in twoside mode on input line 5924.
+Package mdframed Info: mdframed works in twoside mode on input line 5927.
+Package mdframed Info: Not enough space on this page on input line 5927.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [272]
+Package mdframed Info: Not enough space on this page on input line 5927.
+Package mdframed Info: mdframed works in twoside mode on input line 5930.
+Package mdframed Info: mdframed works in twoside mode on input line 5933.
+Package mdframed Info: mdframed works in twoside mode on input line 5936.
+Package mdframed Info: mdframed works in twoside mode on input line 5939.
+Package mdframed Info: mdframed works in twoside mode on input line 5943.
+Package mdframed Info: mdframed works in twoside mode on input line 5945.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [273]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+
+[274
+
+]
+باب 10.
+Package mdframed Info: mdframed works in twoside mode on input line 5962.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[275]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [276]
+Package mdframed Info: mdframed works in twoside mode on input line 6008.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [277]
+Package mdframed Info: mdframed works in twoside mode on input line 6021.
+Package mdframed Info: mdframed works in twoside mode on input line 6023.
+Package mdframed Info: mdframed works in twoside mode on input line 6034.
+Package mdframed Info: mdframed works in twoside mode on input line 6037.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [278]
+Package mdframed Info: mdframed works in twoside mode on input line 6040.
+Package mdframed Info: mdframed works in twoside mode on input line 6043.
+Package mdframed Info: mdframed works in twoside mode on input line 6046.
+Package mdframed Info: mdframed works in twoside mode on input line 6049.
+Package mdframed Info: mdframed works in twoside mode on input line 6051.
+Package mdframed Info: mdframed works in twoside mode on input line 6058.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [279]
+Package mdframed Info: mdframed works in twoside mode on input line 6062.
+Package mdframed Info: mdframed works in twoside mode on input line 6070.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [280]
+Package mdframed Info: mdframed works in twoside mode on input line 6095.
+Package mdframed Info: mdframed works in twoside mode on input line 6108.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [281]
+Package mdframed Info: mdframed works in twoside mode on input line 6115.
+Package mdframed Info: mdframed works in twoside mode on input line 6124.
+Package mdframed Info: mdframed works in twoside mode on input line 6126.
+
+Missing character: There is no ۖ in font Janna LT Bold/OT:script=arab;language=
+dflt;!
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[282]
+باب 11.
+Package mdframed Info: mdframed works in twoside mode on input line 6140.
+Package mdframed Info: mdframed works in twoside mode on input line 6155.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+[283
+
+]
+Package mdframed Info: mdframed works in twoside mode on input line 6159.
+Package mdframed Info: mdframed works in twoside mode on input line 6160.
+Package mdframed Info: mdframed works in twoside mode on input line 6161.
+Package mdframed Info: mdframed works in twoside mode on input line 6165.
+Package mdframed Info: mdframed works in twoside mode on input line 6169.
+Package mdframed Info: mdframed works in twoside mode on input line 6170.
+Package mdframed Info: mdframed works in twoside mode on input line 6174.
+Package mdframed Info: mdframed works in twoside mode on input line 6175.
+Package mdframed Info: mdframed works in twoside mode on input line 6176.
+Package mdframed Info: mdframed works in twoside mode on input line 6177.
+Package mdframed Info: mdframed works in twoside mode on input line 6178.
+Package mdframed Info: mdframed works in twoside mode on input line 6179.
+Package mdframed Info: Not enough space on this page on input line 6179.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [284]
+Package mdframed Info: Not enough space on this page on input line 6179.
+Package mdframed Info: mdframed works in twoside mode on input line 6180.
+Package mdframed Info: mdframed works in twoside mode on input line 6181.
+Package mdframed Info: mdframed works in twoside mode on input line 6182.
+Package mdframed Info: mdframed works in twoside mode on input line 6183.
+Package mdframed Info: mdframed works in twoside mode on input line 6184.
+Package mdframed Info: mdframed works in twoside mode on input line 6185.
+Package mdframed Info: mdframed works in twoside mode on input line 6186.
+Package mdframed Info: mdframed works in twoside mode on input line 6187.
+Package mdframed Info: mdframed works in twoside mode on input line 6188.
+Package mdframed Info: mdframed works in twoside mode on input line 6192.
+Package mdframed Info: mdframed works in twoside mode on input line 6193.
+Package mdframed Info: mdframed works in twoside mode on input line 6194.
+Package mdframed Info: mdframed works in twoside mode on input line 6195.
+Package mdframed Info: Not enough space on this page on input line 6195.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [285]
+Package mdframed Info: Not enough space on this page on input line 6195.
+Package mdframed Info: mdframed works in twoside mode on input line 6196.
+Package mdframed Info: mdframed works in twoside mode on input line 6197.
+Package mdframed Info: mdframed works in twoside mode on input line 6198.
+Package mdframed Info: mdframed works in twoside mode on input line 6199.
+Package mdframed Info: mdframed works in twoside mode on input line 6200.
+Package mdframed Info: mdframed works in twoside mode on input line 6201.
+Package mdframed Info: mdframed works in twoside mode on input line 6202.
+Package mdframed Info: mdframed works in twoside mode on input line 6203.
+Package mdframed Info: mdframed works in twoside mode on input line 6204.
+Package mdframed Info: mdframed works in twoside mode on input line 6205.
+Package mdframed Info: mdframed works in twoside mode on input line 6206.
+Package mdframed Info: mdframed works in twoside mode on input line 6207.
+Package mdframed Info: mdframed works in twoside mode on input line 6208.
+Package mdframed Info: mdframed works in twoside mode on input line 6209.
+Package mdframed Info: Not enough space on this page on input line 6209.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [286]
+Package mdframed Info: Not enough space on this page on input line 6209.
+Package mdframed Info: mdframed works in twoside mode on input line 6210.
+Package mdframed Info: mdframed works in twoside mode on input line 6211.
+Package mdframed Info: mdframed works in twoside mode on input line 6212.
+Package mdframed Info: mdframed works in twoside mode on input line 6213.
+Package mdframed Info: mdframed works in twoside mode on input line 6214.
+Package mdframed Info: mdframed works in twoside mode on input line 6215.
+Package mdframed Info: mdframed works in twoside mode on input line 6217.
+Package mdframed Info: mdframed works in twoside mode on input line 6220.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [287]
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [288
+
+]
+Package mdframed Info: mdframed works in twoside mode on input line 6243.
+File: photo_2025-02-15_13-36-13.jpg Graphic file (type bmp)
+<photo_2025-02-15_13-36-13.jpg>
+ [289]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(دليل النخبة الطبعة الثانية.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `"دليل النخبة الطبعة الثانية".out' has not ch
+anged.
+(rerunfilecheck)             Checksum: <no file>.
+ ) 
+Here is how much of TeX's memory you used:
+ 29752 strings out of 402982
+ 614779 string characters out of 5449094
+ 1176471 words of memory out of 5000000
+ 57987 multiletter control sequences out of 15000+600000
+ 632830 words of font info for 72 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 102i,16n,107p,1331b,1281s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on دليل النخبة الطبعة الثانية.pdf (289 pages).
